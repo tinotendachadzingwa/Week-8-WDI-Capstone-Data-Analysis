@@ -1,0 +1,1321 @@
+Country Name,Country Code,Indicator Name,2021,2022,2023
+Africa Eastern and Southern,AFE,Current health expenditure (% of GDP),5.946320069461881,5.566468992361043,5.543797304124695
+Africa Eastern and Southern,AFE,GDP per capita (constant 2015 US$),1422.6554631187314,1437.0913937496612,1428.5462384367625
+Africa Eastern and Southern,AFE,"Life expectancy at birth, total (years)",62.979999185749385,64.48715179043667,65.14622791637242
+Africa Eastern and Southern,AFE,"Mortality rate, infant (per 1,000 live births)",44.321233387264186,44.3419940282618,41.969085379329854
+Africa Eastern and Southern,AFE,People using at least basic sanitation services (% of population),33.57106633781098,34.27916961205134,34.07951394853839
+Africa Western and Central,AFW,Current health expenditure (% of GDP),4.135654711294637,4.174501070950486,4.142601451153942
+Africa Western and Central,AFW,GDP per capita (constant 2015 US$),1725.1712167383885,1761.0594514084712,1782.326070042659
+Africa Western and Central,AFW,"Life expectancy at birth, total (years)",57.35501504543722,57.97899546652321,58.847483384040494
+Africa Western and Central,AFW,"Mortality rate, infant (per 1,000 live births)",59.13259220356078,60.096105563068136,57.35368169200218
+Africa Western and Central,AFW,People using at least basic sanitation services (% of population),38.03527224649662,39.22050354055189,40.17134389550573
+Arab World,ARB,Current health expenditure (% of GDP),5.262487599241233,4.669185701387301,5.165764916983871
+Arab World,ARB,GDP per capita (constant 2015 US$),6083.571989470263,6361.380844425344,6322.0255833111405
+Arab World,ARB,"Life expectancy at birth, total (years)",70.4041144889903,71.87609559922223,72.44467835785314
+Arab World,ARB,"Mortality rate, infant (per 1,000 live births)",27.882491036699967,28.727004838455688,27.44093689713154
+Arab World,ARB,People using at least basic sanitation services (% of population),85.29708136422956,85.80413417562619,86.35323165027397
+Caribbean small states,CSS,Current health expenditure (% of GDP),6.452955914054719,5.57302406714792,5.4877879619410495
+Caribbean small states,CSS,GDP per capita (constant 2015 US$),13353.216899461686,15259.851605059292,16520.506662977536
+Caribbean small states,CSS,"Life expectancy at birth, total (years)",69.92281074717687,72.83229210906075,73.17164500130976
+Caribbean small states,CSS,"Mortality rate, infant (per 1,000 live births)",18.008372050789234,17.52984792026417,17.020532504721867
+Caribbean small states,CSS,People using at least basic sanitation services (% of population),91.57155460463125,91.73897766224567,92.1260526389118
+Central Europe and the Baltics,CEB,Current health expenditure (% of GDP),7.35978123666996,7.015139274974122,7.172075088561394
+Central Europe and the Baltics,CEB,GDP per capita (constant 2015 US$),15739.24413178253,16396.996639729237,16496.672877909194
+Central Europe and the Baltics,CEB,"Life expectancy at birth, total (years)",74.72328278590768,76.65229872925835,77.75803846836848
+Central Europe and the Baltics,CEB,"Mortality rate, infant (per 1,000 live births)",3.894364364048909,3.91785867447588,3.952796712751239
+Central Europe and the Baltics,CEB,People using at least basic sanitation services (% of population),95.63430780301992,95.83850440511932,96.04115370028887
+Early-demographic dividend,EAR,Current health expenditure (% of GDP),5.079455039940017,4.79146885384,4.827638842612603
+Early-demographic dividend,EAR,GDP per capita (constant 2015 US$),3506.5028630728066,3676.3765412703374,3783.3136499138295
+Early-demographic dividend,EAR,"Life expectancy at birth, total (years)",68.17909948396336,71.43045525086939,71.7962449795855
+Early-demographic dividend,EAR,"Mortality rate, infant (per 1,000 live births)",28.332065856773305,27.47839947364834,26.141172194300623
+Early-demographic dividend,EAR,People using at least basic sanitation services (% of population),75.20932576887442,76.92930050651374,78.48967816554467
+East Asia & Pacific,EAS,Current health expenditure (% of GDP),6.843753029835751,7.029149315986543,6.820392360224897
+East Asia & Pacific,EAS,GDP per capita (constant 2015 US$),12018.116095976426,12361.438572747946,12838.668157464494
+East Asia & Pacific,EAS,"Life expectancy at birth, total (years)",76.152941315904,76.67671671474523,76.6572021082574
+East Asia & Pacific,EAS,"Mortality rate, infant (per 1,000 live births)",11.5,11.4,11.1
+East Asia & Pacific,EAS,People using at least basic sanitation services (% of population),92.03684263746985,93.25315596949068,94.3670031418802
+East Asia & Pacific (excluding high income),EAP,Current health expenditure (% of GDP),5.15121582835273,5.584806470013621,5.608355198300051
+East Asia & Pacific (excluding high income),EAP,GDP per capita (constant 2015 US$),8905.680674630028,9200.1190748992,9666.084326452565
+East Asia & Pacific (excluding high income),EAP,"Life expectancy at birth, total (years)",75.27814184108492,75.9325409436903,75.88068308952657
+East Asia & Pacific (excluding high income),EAP,"Mortality rate, infant (per 1,000 live births)",12.11318252595786,12.01615812421476,11.725115588833953
+East Asia & Pacific (excluding high income),EAP,People using at least basic sanitation services (% of population),91.22979600969128,92.57633186016102,93.80707777190716
+East Asia & Pacific (IDA & IBRD countries),TEA,Current health expenditure (% of GDP),5.151360576272505,5.5850202755135605,5.60851637724168
+East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (constant 2015 US$),9005.518064063654,9303.40405088781,9774.780429859591
+East Asia & Pacific (IDA & IBRD countries),TEA,"Life expectancy at birth, total (years)",75.3009806060199,75.96103474613362,75.90856436038071
+East Asia & Pacific (IDA & IBRD countries),TEA,"Mortality rate, infant (per 1,000 live births)",12.08059132880419,11.976870768050867,11.67640973392274
+East Asia & Pacific (IDA & IBRD countries),TEA,People using at least basic sanitation services (% of population),91.3110492550982,92.673865374262,93.91948025313984
+Euro area,EMU,Current health expenditure (% of GDP),11.160576452258631,10.658691476903329,10.289918007465396
+Euro area,EMU,GDP per capita (constant 2015 US$),36304.01204882124,37533.55240375511,37542.8850711276
+Euro area,EMU,"Life expectancy at birth, total (years)",81.39312030595771,81.48694737355933,82.13789561354979
+Euro area,EMU,"Mortality rate, infant (per 1,000 live births)",3.1034444233086047,3.08079582441602,3.065071432289669
+Euro area,EMU,People using at least basic sanitation services (% of population),98.75902116186607,98.79676013882384,98.80157170823809
+Europe & Central Asia,ECS,Current health expenditure (% of GDP),10.379372171451015,9.709432308699686,9.584967685504507
+Europe & Central Asia,ECS,GDP per capita (constant 2015 US$),24641.42520225882,25489.15292541555,25741.03800706912
+Europe & Central Asia,ECS,"Life expectancy at birth, total (years)",76.72862085360363,77.83456513486252,78.39123420104971
+Europe & Central Asia,ECS,"Mortality rate, infant (per 1,000 live births)",6.9,6.8,6.9
+Europe & Central Asia,ECS,People using at least basic sanitation services (% of population),96.98147564712032,97.14035348145234,97.29513399488584
+Europe & Central Asia (excluding high income),ECA,Current health expenditure (% of GDP),5.674320859024314,4.609285672226677,4.9205238605961545
+Europe & Central Asia (excluding high income),ECA,GDP per capita (constant 2015 US$),7690.469914225008,7972.628076894237,8435.753811069553
+Europe & Central Asia (excluding high income),ECA,"Life expectancy at birth, total (years)",72.88237620529432,74.57316841904739,74.79014162699094
+Europe & Central Asia (excluding high income),ECA,"Mortality rate, infant (per 1,000 live births)",12.192574315861767,12.089963195103572,12.287357713830897
+Europe & Central Asia (excluding high income),ECA,People using at least basic sanitation services (% of population),97.70702826988752,97.81577455800767,97.92031018242056
+Europe & Central Asia (IDA & IBRD countries),TEC,Current health expenditure (% of GDP),6.451549839160335,6.044672766385419,6.215323656549353
+Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (constant 2015 US$),9476.651107489151,9708.77674684136,10132.301327056615
+Europe & Central Asia (IDA & IBRD countries),TEC,"Life expectancy at birth, total (years)",72.15064068261718,74.18836548425028,74.6977324805541
+Europe & Central Asia (IDA & IBRD countries),TEC,"Mortality rate, infant (per 1,000 live births)",9.51772527430066,9.441557001273168,9.563029068395222
+Europe & Central Asia (IDA & IBRD countries),TEC,People using at least basic sanitation services (% of population),94.92538906251843,95.20928821597536,95.49655229213404
+European Union,EUU,Current health expenditure (% of GDP),10.812323500420348,10.3013535917408,9.99899300228438
+European Union,EUU,GDP per capita (constant 2015 US$),33488.04930010823,34606.111171490564,34626.528246047725
+European Union,EUU,"Life expectancy at birth, total (years)",80.30719597619745,80.71332618940673,81.4249329538218
+European Union,EUU,"Mortality rate, infant (per 1,000 live births)",3.211434456313285,3.195353328777165,3.1996539040338794
+European Union,EUU,People using at least basic sanitation services (% of population),98.34655377240657,98.41381287604658,98.45708244118858
+Heavily indebted poor countries (HIPC),HPC,Current health expenditure (% of GDP),4.963465063513676,4.665013959692714,4.452533592037297
+Heavily indebted poor countries (HIPC),HPC,GDP per capita (constant 2015 US$),962.578481916824,983.847120090035,992.1749170214356
+Heavily indebted poor countries (HIPC),HPC,"Life expectancy at birth, total (years)",62.53275893170451,63.84223705071339,64.7182457242664
+Heavily indebted poor countries (HIPC),HPC,"Mortality rate, infant (per 1,000 live births)",47.12335399956376,47.54265525323606,44.17494365798455
+Heavily indebted poor countries (HIPC),HPC,People using at least basic sanitation services (% of population),30.78800242742349,31.70948062978724,32.48129456751322
+High income,HIC,Current health expenditure (% of GDP),13.094400274506896,12.5509007800305,12.538119602724354
+High income,HIC,GDP per capita (constant 2015 US$),40005.14704521644,41064.19522301358,41501.29487308872
+High income,HIC,"Life expectancy at birth, total (years)",78.79815486541519,79.42686097455079,80.14968026188743
+High income,HIC,"Mortality rate, infant (per 1,000 live births)",4.2,4.3,4.3
+High income,HIC,People using at least basic sanitation services (% of population),98.08413595127854,98.17698067801396,98.26392525372717
+IBRD only,IBD,Current health expenditure (% of GDP),5.635977574813984,5.825640539808882,5.909896093618093
+IBRD only,IBD,GDP per capita (constant 2015 US$),6729.333392665458,6950.42582854395,7237.597881754135
+IBRD only,IBD,"Life expectancy at birth, total (years)",71.974203378406,74.25128211293509,74.51797646239585
+IBRD only,IBD,"Mortality rate, infant (per 1,000 live births)",18.171156781891128,17.758046849896775,17.256841851203706
+IBRD only,IBD,People using at least basic sanitation services (% of population),86.64442119355489,88.15079915007581,89.89361789590478
+IDA & IBRD total,IBT,Current health expenditure (% of GDP),5.52514905926163,5.686440917873797,5.769170761519484
+IDA & IBRD total,IBT,GDP per capita (constant 2015 US$),5288.487516770479,5440.777713638891,5634.164826923169
+IDA & IBRD total,IBT,"Life expectancy at birth, total (years)",69.6690947451642,71.67900957611738,71.99999282172827
+IDA & IBRD total,IBT,"Mortality rate, infant (per 1,000 live births)",31.57524014944921,31.60782012840865,30.522645682455657
+IDA & IBRD total,IBT,People using at least basic sanitation services (% of population),75.93823183122275,77.22938330173342,78.50191304350771
+IDA blend,IDB,Current health expenditure (% of GDP),3.9548923815743593,3.969125848977248,3.8935540477279735
+IDA blend,IDB,GDP per capita (constant 2015 US$),1988.143167481507,2043.423728951992,2062.6235641928683
+IDA blend,IDB,"Life expectancy at birth, total (years)",60.87653573817904,62.12886414168516,62.46216433273493
+IDA blend,IDB,"Mortality rate, infant (per 1,000 live births)",55.19662354851225,54.53147564241683,53.73832979891896
+IDA blend,IDB,People using at least basic sanitation services (% of population),55.81068979161058,57.36998295585317,57.89025567093381
+IDA only,IDX,Current health expenditure (% of GDP),4.276481671967828,3.95180595447798,3.840424655339063
+IDA only,IDX,GDP per capita (constant 2015 US$),1112.5528102120072,1135.3447164140266,1147.1631678795557
+IDA only,IDX,"Life expectancy at birth, total (years)",64.87933951815214,66.36349834268785,67.0575957681524
+IDA only,IDX,"Mortality rate, infant (per 1,000 live births)",43.12163338153981,43.451711555497376,40.64432930980676
+IDA only,IDX,People using at least basic sanitation services (% of population),42.66048164573305,43.6018019042185,44.47107954071127
+IDA total,IDA,Current health expenditure (% of GDP),4.120435870217456,3.960133471782788,3.864042815042751
+IDA total,IDA,GDP per capita (constant 2015 US$),1418.9723350781933,1452.6702544889126,1466.4046761671932
+IDA total,IDA,"Life expectancy at birth, total (years)",63.47852780042509,64.88371788544782,65.45506608081351
+IDA total,IDA,"Mortality rate, infant (per 1,000 live births)",47.31672785745381,47.28945867345687,45.16785868102054
+IDA total,IDA,People using at least basic sanitation services (% of population),47.29185990451394,48.41427790815813,49.15038285927154
+Late-demographic dividend,LTE,Current health expenditure (% of GDP),5.82771976334064,6.165563877684754,6.311552095425175
+Late-demographic dividend,LTE,GDP per capita (constant 2015 US$),10610.208423309512,10941.940776636176,11414.692403804243
+Late-demographic dividend,LTE,"Life expectancy at birth, total (years)",76.30601372756863,76.9543673255695,77.12405373716255
+Late-demographic dividend,LTE,"Mortality rate, infant (per 1,000 live births)",7.775683422124814,7.661310391717591,7.413820588030134
+Late-demographic dividend,LTE,People using at least basic sanitation services (% of population),93.6857354018068,94.84639658178648,95.9006060437268
+Latin America & Caribbean,LCN,Current health expenditure (% of GDP),8.300980157653314,7.954359781898466,7.94355058922187
+Latin America & Caribbean,LCN,GDP per capita (constant 2015 US$),8317.643300392188,8606.554277616442,8736.176803857228
+Latin America & Caribbean,LCN,"Life expectancy at birth, total (years)",71.81417646401324,74.6472096226697,75.64352733579062
+Latin America & Caribbean,LCN,"Mortality rate, infant (per 1,000 live births)",14.1,13.9,13.6
+Latin America & Caribbean,LCN,People using at least basic sanitation services (% of population),88.70380540785601,89.35137801343562,89.88597009908162
+Latin America & Caribbean (excluding high income),LAC,Current health expenditure (% of GDP),8.21103967465097,7.848327542198869,7.840155677233975
+Latin America & Caribbean (excluding high income),LAC,GDP per capita (constant 2015 US$),7827.41188417897,8089.044305731604,8203.238951375028
+Latin America & Caribbean (excluding high income),LAC,"Life expectancy at birth, total (years)",71.44225111313096,74.40131203276184,75.36196580995906
+Latin America & Caribbean (excluding high income),LAC,"Mortality rate, infant (per 1,000 live births)",14.36143833413256,14.121577353394292,13.789246543757669
+Latin America & Caribbean (excluding high income),LAC,People using at least basic sanitation services (% of population),88.09648413879982,88.77758295031772,89.33864767636425
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Current health expenditure (% of GDP),8.304543574996943,7.956523574360162,7.947352807068007
+Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (constant 2015 US$),8194.510658097464,8479.2645101924,8611.077811218314
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Life expectancy at birth, total (years)",71.74492746264052,74.56842935408586,75.56992583796877
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Mortality rate, infant (per 1,000 live births)",14.231761815197409,13.982719146203891,13.66637280634491
+Latin America & the Caribbean (IDA & IBRD countries),TLA,People using at least basic sanitation services (% of population),88.55751532705887,89.21131974844913,89.74864349698575
+Least developed countries: UN classification,LDC,Current health expenditure (% of GDP),3.918746342642645,3.669375330291037,3.6066857264497454
+Least developed countries: UN classification,LDC,GDP per capita (constant 2015 US$),1041.8186439315052,1066.5626026968273,1074.2916504331567
+Least developed countries: UN classification,LDC,"Life expectancy at birth, total (years)",64.26990576843237,65.76632866658132,66.51962632321951
+Least developed countries: UN classification,LDC,"Mortality rate, infant (per 1,000 live births)",44.39296274671386,44.72784866979416,41.84938241819203
+Least developed countries: UN classification,LDC,People using at least basic sanitation services (% of population),39.97840358421095,40.933517095086295,41.52848391435312
+Low & middle income,LMY,Current health expenditure (% of GDP),5.357589569853272,5.539488280820676,5.610906831674266
+Low & middle income,LMY,GDP per capita (constant 2015 US$),5019.23390795338,5170.6906311666,5358.983409019792
+Low & middle income,LMY,"Life expectancy at birth, total (years)",69.59947260834835,71.59906301193061,71.88724009350054
+Low & middle income,LMY,"Mortality rate, infant (per 1,000 live births)",32.01388019059932,32.028101899102616,30.925333566416622
+Low & middle income,LMY,People using at least basic sanitation services (% of population),75.3908550349232,76.72380403791676,78.02216141641931
+Low income,LIC,Current health expenditure (% of GDP),5.05110072576691,4.7884159397891874,4.570737641894176
+Low income,LIC,GDP per capita (constant 2015 US$),700.7021890419018,707.9206089762117,697.417753503119
+Low income,LIC,"Life expectancy at birth, total (years)",62.91622899324222,64.08248694753719,65.03568342413293
+Low income,LIC,"Mortality rate, infant (per 1,000 live births)",49.2,50.5,47.7
+Low income,LIC,People using at least basic sanitation services (% of population),33.16520843244086,33.8713062822168,34.50560113186351
+Lower middle income,LMC,Current health expenditure (% of GDP),3.7732279479327375,3.768294187316734,3.7080873998573143
+Lower middle income,LMC,GDP per capita (constant 2015 US$),2001.0394104158177,2100.101586142823,2182.511861435581
+Lower middle income,LMC,"Life expectancy at birth, total (years)",66.00707232871665,69.03024730937612,69.32824451499322
+Lower middle income,LMC,"Mortality rate, infant (per 1,000 live births)",35.5,34.7,33.9
+Lower middle income,LMC,People using at least basic sanitation services (% of population),68.19095788274997,70.26688325652958,72.33977966793488
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,Current health expenditure (% of GDP),5.433858149030228,4.956502587205414,5.342568168189645
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,GDP per capita (constant 2015 US$),5215.440150066613,5446.992947936069,5463.85312225795
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,"Life expectancy at birth, total (years)",69.7113193479505,71.69172931548633,72.08383647045635
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,"Mortality rate, infant (per 1,000 live births)",35.0,34.0,33.0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,People using at least basic sanitation services (% of population),82.41448643992197,83.2144073247725,83.43443918566841
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,Current health expenditure (% of GDP),4.869623248614953,4.76580090349135,5.204671488391588
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,GDP per capita (constant 2015 US$),2908.1534361664303,2982.783355556395,3016.2521002044887
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"Life expectancy at birth, total (years)",68.92802147826525,71.00553154433975,71.27588498845824
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"Mortality rate, infant (per 1,000 live births)",36.59582554868799,35.60587215546962,34.64214946038507
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,People using at least basic sanitation services (% of population),80.96185419413932,81.79836043179662,82.00290307333074
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,Current health expenditure (% of GDP),4.816780896473859,4.721201368627748,5.154227580897175
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,GDP per capita (constant 2015 US$),2907.1447811053536,2981.952677958574,3016.3878622000584
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"Life expectancy at birth, total (years)",68.89310322823205,70.96543255088801,71.3194560888195
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"Mortality rate, infant (per 1,000 live births)",36.800853092711286,35.8054853221345,34.79418153378042
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,People using at least basic sanitation services (% of population),80.83447948896705,81.67374357424252,81.87881201484565
+Middle income,MIC,Current health expenditure (% of GDP),5.361385558794354,5.549766111975886,5.624555954499964
+Middle income,MIC,GDP per capita (constant 2015 US$),5529.075940772671,5707.56983867332,5930.653000147838
+Middle income,MIC,"Life expectancy at birth, total (years)",70.38855679615034,72.50341145187726,72.7277443304535
+Middle income,MIC,"Mortality rate, infant (per 1,000 live births)",27.617356122200132,27.289108522837616,26.830391400439613
+Middle income,MIC,People using at least basic sanitation services (% of population),80.40283990863239,81.91225077974863,83.42846963271012
+North America,NAC,Current health expenditure (% of GDP),16.96162950724426,16.104486252444385,16.291020473639232
+North America,NAC,GDP per capita (constant 2015 US$),61198.251236330136,62404.62106027948,63532.00768717634
+North America,NAC,"Life expectancy at birth, total (years)",76.85901905643622,77.81720625456798,78.73045134646061
+North America,NAC,"Mortality rate, infant (per 1,000 live births)",5.4,5.4,5.4
+North America,NAC,People using at least basic sanitation services (% of population),99.5392812025012,99.52272922342938,99.50603815691356
+OECD members,OED,Current health expenditure (% of GDP),13.347679752569867,12.87902662958902,12.748164256774078
+OECD members,OED,GDP per capita (constant 2015 US$),38777.500830770114,39804.66249613602,40246.743427263646
+OECD members,OED,"Life expectancy at birth, total (years)",78.58672051839388,79.51708776968987,80.16297340619893
+OECD members,OED,"Mortality rate, infant (per 1,000 live births)",6.062504719003679,6.002748196685089,6.054529609826586
+OECD members,OED,People using at least basic sanitation services (% of population),98.5001616816906,98.57368391603576,98.63059816351938
+Other small states,OSS,Current health expenditure (% of GDP),7.728701417386001,7.175825593033248,7.347532804344486
+Other small states,OSS,GDP per capita (constant 2015 US$),11725.948410404795,12090.277930740624,12357.387278889824
+Other small states,OSS,"Life expectancy at birth, total (years)",71.76997193014155,72.90622141710142,73.5849815358082
+Other small states,OSS,"Mortality rate, infant (per 1,000 live births)",26.14884111422424,25.90390300265602,25.297258940594407
+Other small states,OSS,People using at least basic sanitation services (% of population),83.19445275232242,83.79760518911259,84.3381897826745
+Pacific island small states,PSS,Current health expenditure (% of GDP),7.231455425632804,5.932247854012133,5.662590489493208
+Pacific island small states,PSS,GDP per capita (constant 2015 US$),3430.0744203585123,3673.2254466567374,3890.394887089216
+Pacific island small states,PSS,"Life expectancy at birth, total (years)",67.48102092407026,69.10043489935615,69.27459490358558
+Pacific island small states,PSS,"Mortality rate, infant (per 1,000 live births)",19.489673275178436,19.34524006886437,19.0789703343776
+Pacific island small states,PSS,People using at least basic sanitation services (% of population),67.36133512007147,67.0579561902119,66.7578537588005
+Post-demographic dividend,PST,Current health expenditure (% of GDP),13.819127153033303,13.379265398404431,13.280204748296809
+Post-demographic dividend,PST,GDP per capita (constant 2015 US$),44440.63423459459,45677.3513142375,46338.32458466064
+Post-demographic dividend,PST,"Life expectancy at birth, total (years)",79.79327967027642,80.19255944785235,80.83426783187637
+Post-demographic dividend,PST,"Mortality rate, infant (per 1,000 live births)",4.104475282213215,4.104290666376242,4.107307338390871
+Post-demographic dividend,PST,People using at least basic sanitation services (% of population),99.1996687817447,99.22171932698495,99.23048344551
+Pre-demographic dividend,PRE,Current health expenditure (% of GDP),4.48162396880743,4.300138867827272,4.471738856318226
+Pre-demographic dividend,PRE,GDP per capita (constant 2015 US$),1402.4544605434562,1430.9036585373424,1429.188752476235
+Pre-demographic dividend,PRE,"Life expectancy at birth, total (years)",60.27435162318759,61.38242174577126,62.16306036909525
+Pre-demographic dividend,PRE,"Mortality rate, infant (per 1,000 live births)",51.16235095127576,51.70133633075997,49.84043606160423
+Pre-demographic dividend,PRE,People using at least basic sanitation services (% of population),38.7779093114341,39.76358920930447,40.2167628967345
+Small states,SST,Current health expenditure (% of GDP),7.381860503562524,6.663408152082014,6.766807774380663
+Small states,SST,GDP per capita (constant 2015 US$),10988.314957658196,11682.188070407192,12160.058763530582
+Small states,SST,"Life expectancy at birth, total (years)",70.77568258913823,72.38029722535202,72.91304001578426
+Small states,SST,"Mortality rate, infant (per 1,000 live births)",23.265850516239727,22.9700556480149,22.44141446935194
+Small states,SST,People using at least basic sanitation services (% of population),82.80249059654327,83.18388159992261,83.48721131772272
+South Asia,SAS,Current health expenditure (% of GDP),3.300460623856268,3.3065443035515694,3.259776635465093
+South Asia,SAS,GDP per capita (constant 2015 US$),1957.5178529812863,2079.7009603938504,2201.342489825024
+South Asia,SAS,"Life expectancy at birth, total (years)",67.82152997675128,72.01157313084465,72.3247648783903
+South Asia,SAS,"Mortality rate, infant (per 1,000 live births)",26.3,25.2,24.2
+South Asia,SAS,People using at least basic sanitation services (% of population),73.86133860849374,76.62490024242,79.37995942279345
+South Asia (IDA & IBRD),TSA,Current health expenditure (% of GDP),3.300460623856268,3.3065443035515694,3.259776635465093
+South Asia (IDA & IBRD),TSA,GDP per capita (constant 2015 US$),1957.5178529812863,2079.7009603938504,2201.342489825024
+South Asia (IDA & IBRD),TSA,"Life expectancy at birth, total (years)",67.82152997675126,72.01157313084467,72.3247648783903
+South Asia (IDA & IBRD),TSA,"Mortality rate, infant (per 1,000 live births)",26.3863416373173,25.252380125788108,24.22522244571072
+South Asia (IDA & IBRD),TSA,People using at least basic sanitation services (% of population),73.86133860849374,76.62490024242,79.37995942279345
+Sub-Saharan Africa,SSF,Current health expenditure (% of GDP),5.07436814274861,4.917569335510176,4.919668463836155
+Sub-Saharan Africa,SSF,GDP per capita (constant 2015 US$),1545.113883244353,1568.021527881133,1571.4055801622983
+Sub-Saharan Africa,SSF,"Life expectancy at birth, total (years)",60.70300480508535,61.85691167788833,62.6027406477464
+Sub-Saharan Africa,SSF,"Mortality rate, infant (per 1,000 live births)",50.4,50.8,48.2
+Sub-Saharan Africa,SSF,People using at least basic sanitation services (% of population),35.37933505870889,36.26281575774951,36.597084796018045
+Sub-Saharan Africa (excluding high income),SSA,Current health expenditure (% of GDP),5.074274291693958,4.918024136783791,4.920119627895775
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita (constant 2015 US$),1543.8329488543905,1566.664365963424,1570.0053036533254
+Sub-Saharan Africa (excluding high income),SSA,"Life expectancy at birth, total (years)",60.70195299596798,61.85567656858597,62.60152104359793
+Sub-Saharan Africa (excluding high income),SSA,"Mortality rate, infant (per 1,000 live births)",50.36611114952215,50.76273212910865,48.24219646680445
+Sub-Saharan Africa (excluding high income),SSA,People using at least basic sanitation services (% of population),35.37404962372255,36.25656608561955,36.59084075922124
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Current health expenditure (% of GDP),5.074368142748611,4.917569335510175,4.919668463836156
+Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (constant 2015 US$),1545.113883244353,1568.0215278811331,1571.4055801622987
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Life expectancy at birth, total (years)",60.70300480508535,61.85691167788834,62.6027406477464
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Mortality rate, infant (per 1,000 live births)",50.36450826362773,50.76114875610025,48.2407285889682
+Sub-Saharan Africa (IDA & IBRD countries),TSS,People using at least basic sanitation services (% of population),35.37933505870889,36.26281575774951,36.59708479601805
+Upper middle income,UMC,Current health expenditure (% of GDP),5.712492929922252,5.950341331815648,6.041349294592505
+Upper middle income,UMC,GDP per capita (constant 2015 US$),8773.6893792671,9057.389648215098,9448.075668497624
+Upper middle income,UMC,"Life expectancy at birth, total (years)",74.41805684845052,75.72851926486472,75.91798644499116
+Upper middle income,UMC,"Mortality rate, infant (per 1,000 live births)",11.6,11.4,11.3
+Upper middle income,UMC,People using at least basic sanitation services (% of population),91.80336528367864,92.86555690234728,93.83352863130696
+World,WLD,Current health expenditure (% of GDP),10.293027494177776,10.005756275690027,10.060446599469854
+World,WLD,GDP per capita (constant 2015 US$),11167.604492338543,11452.020212461646,11670.82246808224
+World,WLD,"Life expectancy at birth, total (years)",71.21607802602965,72.96895854780523,73.33022302763743
+World,WLD,"Mortality rate, infant (per 1,000 live births)",29.3,29.3,28.4
+World,WLD,People using at least basic sanitation services (% of population),79.35257466775565,80.44818695532393,81.54508319456866
+Afghanistan,AFG,Current health expenditure (% of GDP),21.50844383,23.0881691,14.9857626
+Afghanistan,AFG,GDP per capita (constant 2015 US$),408.6258552174031,377.6656270807047,378.0663031225898
+Afghanistan,AFG,"Life expectancy at birth, total (years)",60.417,65.617,66.035
+Afghanistan,AFG,"Mortality rate, infant (per 1,000 live births)",53.2,51.6,49.9
+Afghanistan,AFG,People using at least basic sanitation services (% of population),50.2966403259731,51.6914397704169,53.0909369400519
+Albania,ALB,Current health expenditure (% of GDP),7.35750389,7.53646231,7.05240345
+Albania,ALB,GDP per capita (constant 2015 US$),5511.757434028622,5867.650962305566,6204.435256121144
+Albania,ALB,"Life expectancy at birth, total (years)",76.844,78.769,79.602
+Albania,ALB,"Mortality rate, infant (per 1,000 live births)",8.3,8.3,8.3
+Albania,ALB,People using at least basic sanitation services (% of population),99.2990351357274,99.2992678183537,99.2994944120586
+Algeria,DZA,Current health expenditure (% of GDP),5.02188873,3.63464284,4.35082531
+Algeria,DZA,GDP per capita (constant 2015 US$),4456.74687637774,4544.466880603715,4660.4054568789525
+Algeria,DZA,"Life expectancy at birth, total (years)",75.208,76.129,76.261
+Algeria,DZA,"Mortality rate, infant (per 1,000 live births)",20.2,20.0,19.7
+Algeria,DZA,People using at least basic sanitation services (% of population),85.7843029485606,85.8262858406741,85.8670433970582
+American Samoa,ASM,Current health expenditure (% of GDP),,,
+American Samoa,ASM,GDP per capita (constant 2015 US$),13233.578481734054,13709.09748954728,
+American Samoa,ASM,"Life expectancy at birth, total (years)",72.708,72.752,72.852
+American Samoa,ASM,"Mortality rate, infant (per 1,000 live births)",,,
+American Samoa,ASM,People using at least basic sanitation services (% of population),62.1275988186987,62.119697982607,62.119697982607
+Andorra,AND,Current health expenditure (% of GDP),8.64671707,7.52135801,7.69928026
+Andorra,AND,GDP per capita (constant 2015 US$),36929.01915286439,39780.39661307912,40227.23352974002
+Andorra,AND,"Life expectancy at birth, total (years)",82.331,84.016,84.041
+Andorra,AND,"Mortality rate, infant (per 1,000 live births)",2.7,2.6,2.5
+Andorra,AND,People using at least basic sanitation services (% of population),100.0,99.9999963147646,100.0
+Angola,AGO,Current health expenditure (% of GDP),2.73987103,2.60041046,2.54692864
+Angola,AGO,GDP per capita (constant 2015 US$),2788.1673708668504,2798.017173176881,2748.9519695424824
+Angola,AGO,"Life expectancy at birth, total (years)",62.958,64.246,64.617
+Angola,AGO,"Mortality rate, infant (per 1,000 live births)",34.4,33.7,33.0
+Angola,AGO,People using at least basic sanitation services (% of population),50.0511353702384,50.2951359158799,
+Antigua and Barbuda,ATG,Current health expenditure (% of GDP),4.81315422,4.43146801,3.91348195
+Antigua and Barbuda,ATG,GDP per capita (constant 2015 US$),16084.721440604812,17359.267481110808,17938.31868280469
+Antigua and Barbuda,ATG,"Life expectancy at birth, total (years)",77.197,77.483,77.598
+Antigua and Barbuda,ATG,"Mortality rate, infant (per 1,000 live births)",7.6,7.4,7.2
+Antigua and Barbuda,ATG,People using at least basic sanitation services (% of population),99.6050402706189,99.605594345624,99.6058209466968
+Argentina,ARG,Current health expenditure (% of GDP),11.00910187,10.15950489,10.2695179
+Argentina,ARG,GDP per capita (constant 2015 US$),12549.281169934176,13276.823211018853,12993.092887241564
+Argentina,ARG,"Life expectancy at birth, total (years)",73.948,75.806,77.395
+Argentina,ARG,"Mortality rate, infant (per 1,000 live births)",8.5,8.4,8.2
+Argentina,ARG,People using at least basic sanitation services (% of population),,,
+Armenia,ARM,Current health expenditure (% of GDP),12.32268524,9.96211243,9.32119179
+Armenia,ARM,GDP per capita (constant 2015 US$),4264.799615051871,4791.004817121827,5197.235090135753
+Armenia,ARM,"Life expectancy at birth, total (years)",72.27804878048782,74.7658536585366,77.4658536585366
+Armenia,ARM,"Mortality rate, infant (per 1,000 live births)",9.7,9.3,8.9
+Armenia,ARM,People using at least basic sanitation services (% of population),93.0320229848765,93.3068358390677,93.5674537130871
+Aruba,ABW,Current health expenditure (% of GDP),,,
+Aruba,ABW,GDP per capita (constant 2015 US$),26303.03972023749,29198.990358482737,31963.076450534896
+Aruba,ABW,"Life expectancy at birth, total (years)",73.655,76.226,76.353
+Aruba,ABW,"Mortality rate, infant (per 1,000 live births)",,,
+Aruba,ABW,People using at least basic sanitation services (% of population),98.8005972638482,98.8400017151311,98.8400017151311
+Australia,AUS,Current health expenditure (% of GDP),10.51612186,9.89226055,10.39852047
+Australia,AUS,GDP per capita (constant 2015 US$),59465.53567136402,61200.45889647808,61869.082498575975
+Australia,AUS,"Life expectancy at birth, total (years)",83.3,83.2,83.05121951219513
+Australia,AUS,"Mortality rate, infant (per 1,000 live births)",3.2,3.2,3.1
+Australia,AUS,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Austria,AUT,Current health expenditure (% of GDP),12.185215,11.22519779,11.15297318
+Austria,AUT,GDP per capita (constant 2015 US$),45368.64343373677,47332.424035797136,46497.91146403411
+Austria,AUT,"Life expectancy at birth, total (years)",81.19024390243904,81.2951219512195,81.79268292682929
+Austria,AUT,"Mortality rate, infant (per 1,000 live births)",2.8,2.8,2.8
+Austria,AUT,People using at least basic sanitation services (% of population),99.9724908948366,99.9723650796655,99.9722421586423
+Azerbaijan,AZE,Current health expenditure (% of GDP),4.68526697,3.41549611,4.27113533
+Azerbaijan,AZE,GDP per capita (constant 2015 US$),5349.582260714248,5599.585249710247,5668.610213170288
+Azerbaijan,AZE,"Life expectancy at birth, total (years)",70.999,74.125,74.429
+Azerbaijan,AZE,"Mortality rate, infant (per 1,000 live births)",14.7,13.9,13.2
+Azerbaijan,AZE,People using at least basic sanitation services (% of population),95.8663117734363,96.9106527966691,97.9482163589564
+"Bahamas, The",BHS,Current health expenditure (% of GDP),6.78537178,7.04287481,6.30260801
+"Bahamas, The",BHS,GDP per capita (constant 2015 US$),29114.059772638564,32186.457503923662,33009.64561512101
+"Bahamas, The",BHS,"Life expectancy at birth, total (years)",70.752,74.491,74.552
+"Bahamas, The",BHS,"Mortality rate, infant (per 1,000 live births)",11.7,11.6,11.3
+"Bahamas, The",BHS,People using at least basic sanitation services (% of population),,,
+Bahrain,BHR,Current health expenditure (% of GDP),4.32771444,3.89098358,3.99562383
+Bahrain,BHR,GDP per capita (constant 2015 US$),24086.78478034281,25234.402561820025,25342.622664157167
+Bahrain,BHR,"Life expectancy at birth, total (years)",78.083,80.992,81.284
+Bahrain,BHR,"Mortality rate, infant (per 1,000 live births)",6.8,7.0,7.2
+Bahrain,BHR,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Bangladesh,BGD,Current health expenditure (% of GDP),2.26678729,2.21544909,2.17014575
+Bangladesh,BGD,GDP per capita (constant 2015 US$),1702.080284141892,1804.349346177604,1885.3773361354515
+Bangladesh,BGD,"Life expectancy at birth, total (years)",71.103,74.265,74.672
+Bangladesh,BGD,"Mortality rate, infant (per 1,000 live births)",24.5,24.4,24.4
+Bangladesh,BGD,People using at least basic sanitation services (% of population),61.6770898454809,63.6502711298232,65.6304136319171
+Barbados,BRB,Current health expenditure (% of GDP),7.4427762,5.8744669,5.40463829
+Barbados,BRB,GDP per capita (constant 2015 US$),18395.61536220729,21315.93632555171,21701.266027070076
+Barbados,BRB,"Life expectancy at birth, total (years)",76.58,75.676,76.178
+Barbados,BRB,"Mortality rate, infant (per 1,000 live births)",9.9,9.6,9.4
+Barbados,BRB,People using at least basic sanitation services (% of population),97.3330327442074,98.0924623115578,98.0924623115578
+Belarus,BLR,Current health expenditure (% of GDP),6.56549978,6.57784128,7.08167362
+Belarus,BLR,GDP per capita (constant 2015 US$),6457.730537063426,6206.61909685419,6497.78450683592
+Belarus,BLR,"Life expectancy at birth, total (years)",72.07146341463415,74.10336585365854,74.18378048780488
+Belarus,BLR,"Mortality rate, infant (per 1,000 live births)",2.1,2.0,1.9
+Belarus,BLR,People using at least basic sanitation services (% of population),99.6591219571066,99.6897638568081,99.7199437262096
+Belgium,BEL,Current health expenditure (% of GDP),11.28825092,10.73976326,10.80371571
+Belgium,BEL,GDP per capita (constant 2015 US$),43140.96766529711,44516.00216080103,44828.22745212442
+Belgium,BEL,"Life expectancy at birth, total (years)",81.79024390243904,81.7487804878049,82.40000000000002
+Belgium,BEL,"Mortality rate, infant (per 1,000 live births)",3.2,3.2,3.2
+Belgium,BEL,People using at least basic sanitation services (% of population),99.486206436114,99.4862152277247,99.4862165648512
+Belize,BLZ,Current health expenditure (% of GDP),5.04598379,4.21643019,4.14735794
+Belize,BLZ,GDP per capita (constant 2015 US$),5839.401579560165,6262.560882736742,6165.6941482593575
+Belize,BLZ,"Life expectancy at birth, total (years)",70.917,72.19,73.566
+Belize,BLZ,"Mortality rate, infant (per 1,000 live births)",11.0,10.9,10.9
+Belize,BLZ,People using at least basic sanitation services (% of population),84.1586414948366,84.2021316466722,84.2497280854857
+Benin,BEN,Current health expenditure (% of GDP),2.91589761,2.98184395,3.33732462
+Benin,BEN,GDP per capita (constant 2015 US$),1176.3772763727318,1218.496689290907,1263.621583363682
+Benin,BEN,"Life expectancy at birth, total (years)",59.61,60.475,60.774
+Benin,BEN,"Mortality rate, infant (per 1,000 live births)",49.1,47.8,46.5
+Benin,BEN,People using at least basic sanitation services (% of population),20.1721169387367,20.853650768615,21.5460291941212
+Bermuda,BMU,Current health expenditure (% of GDP),,,
+Bermuda,BMU,GDP per capita (constant 2015 US$),103130.36584531794,109412.25115959796,114244.68104713196
+Bermuda,BMU,"Life expectancy at birth, total (years)",81.745,82.062,82.309
+Bermuda,BMU,"Mortality rate, infant (per 1,000 live births)",,,
+Bermuda,BMU,People using at least basic sanitation services (% of population),99.9416526015971,99.9416526015971,99.9416526015971
+Bhutan,BTN,Current health expenditure (% of GDP),4.78581429,3.91757464,4.41551638
+Bhutan,BTN,GDP per capita (constant 2015 US$),3206.2036699725377,3349.733096327985,3480.5138852318423
+Bhutan,BTN,"Life expectancy at birth, total (years)",72.448,72.754,72.975
+Bhutan,BTN,"Mortality rate, infant (per 1,000 live births)",15.9,15.1,14.3
+Bhutan,BTN,People using at least basic sanitation services (% of population),82.1461906791953,83.7339782184806,85.2990010822165
+Bolivia,BOL,Current health expenditure (% of GDP),8.16016769,7.15933084,6.91864729
+Bolivia,BOL,GDP per capita (constant 2015 US$),3011.5511082530124,3088.241261734365,3122.770494662225
+Bolivia,BOL,"Life expectancy at birth, total (years)",61.427,67.434,68.581
+Bolivia,BOL,"Mortality rate, infant (per 1,000 live births)",16.4,15.6,14.9
+Bolivia,BOL,People using at least basic sanitation services (% of population),67.2484529429256,69.0727323107113,70.4335419312464
+Bosnia and Herzegovina,BIH,Current health expenditure (% of GDP),9.55514336,8.71644783,8.9216938
+Bosnia and Herzegovina,BIH,GDP per capita (constant 2015 US$),5995.541975904936,6327.162068491737,6493.324005144626
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, total (years)",74.567,76.777,77.85
+Bosnia and Herzegovina,BIH,"Mortality rate, infant (per 1,000 live births)",5.7,5.5,5.3
+Bosnia and Herzegovina,BIH,People using at least basic sanitation services (% of population),,,
+Botswana,BWA,Current health expenditure (% of GDP),6.30315065,5.73650789,6.25574684
+Botswana,BWA,GDP per capita (constant 2015 US$),6895.911849431069,7159.586061826801,7269.051706644575
+Botswana,BWA,"Life expectancy at birth, total (years)",63.303,68.749,69.163
+Botswana,BWA,"Mortality rate, infant (per 1,000 live births)",35.4,34.3,33.3
+Botswana,BWA,People using at least basic sanitation services (% of population),70.9542350453954,71.4864919930582,71.9941392506475
+Brazil,BRA,Current health expenditure (% of GDP),9.63646507,9.38739491,9.73092747
+Brazil,BRA,GDP per capita (constant 2015 US$),8799.229458109006,9032.084815662993,9288.027014700689
+Brazil,BRA,"Life expectancy at birth, total (years)",73.038,74.872,75.848
+Brazil,BRA,"Mortality rate, infant (per 1,000 live births)",12.7,12.6,12.4
+Brazil,BRA,People using at least basic sanitation services (% of population),90.3198016289812,91.0196550646128,91.7128476214348
+British Virgin Islands,VGB,Current health expenditure (% of GDP),,,
+British Virgin Islands,VGB,GDP per capita (constant 2015 US$),,,
+British Virgin Islands,VGB,"Life expectancy at birth, total (years)",75.297,77.177,77.276
+British Virgin Islands,VGB,"Mortality rate, infant (per 1,000 live births)",12.4,12.1,11.7
+British Virgin Islands,VGB,People using at least basic sanitation services (% of population),,,
+Brunei Darussalam,BRN,Current health expenditure (% of GDP),2.14748693,1.77042186,2.2286067
+Brunei Darussalam,BRN,GDP per capita (constant 2015 US$),29256.183367834252,28549.17560604654,28645.96453962838
+Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",74.869,72.917,75.327
+Brunei Darussalam,BRN,"Mortality rate, infant (per 1,000 live births)",8.8,8.7,8.7
+Brunei Darussalam,BRN,People using at least basic sanitation services (% of population),98.2641900046024,99.4808254058944,100.0
+Bulgaria,BGR,Current health expenditure (% of GDP),8.58048916,7.63849449,7.91853094
+Bulgaria,BGR,GDP per capita (constant 2015 US$),9161.945417593472,9598.358285715794,9787.76510584614
+Bulgaria,BGR,"Life expectancy at birth, total (years)",71.21219512195123,74.16097560975611,75.75609756097562
+Bulgaria,BGR,"Mortality rate, infant (per 1,000 live births)",5.2,5.0,4.8
+Bulgaria,BGR,People using at least basic sanitation services (% of population),86.0455390086067,86.0559026317979,86.0662621462475
+Burkina Faso,BFA,Current health expenditure (% of GDP),7.08691931,7.41435528,7.79943228
+Burkina Faso,BFA,GDP per capita (constant 2015 US$),745.4725634351441,740.3063199302587,745.4053346184086
+Burkina Faso,BFA,"Life expectancy at birth, total (years)",60.046,60.7,61.092
+Burkina Faso,BFA,"Mortality rate, infant (per 1,000 live births)",47.4,46.1,44.9
+Burkina Faso,BFA,People using at least basic sanitation services (% of population),28.8068022658045,29.8585926182987,30.9150753845811
+Burundi,BDI,Current health expenditure (% of GDP),8.94190311,8.6687746,9.09471226
+Burundi,BDI,GDP per capita (constant 2015 US$),264.6826516584216,263.5875500491186,264.8433079451201
+Burundi,BDI,"Life expectancy at birth, total (years)",62.101,62.882,63.651
+Burundi,BDI,"Mortality rate, infant (per 1,000 live births)",33.5,32.4,31.4
+Burundi,BDI,People using at least basic sanitation services (% of population),44.5545225988873,44.6569603684061,44.6456125902738
+Cabo Verde,CPV,Current health expenditure (% of GDP),6.60773611,6.70243406,5.84791613
+Cabo Verde,CPV,GDP per capita (constant 2015 US$),3471.655342178596,3997.7676325065327,4168.677484075933
+Cabo Verde,CPV,"Life expectancy at birth, total (years)",74.424,75.907,76.059
+Cabo Verde,CPV,"Mortality rate, infant (per 1,000 live births)",12.0,11.5,11.0
+Cabo Verde,CPV,People using at least basic sanitation services (% of population),83.0030877232497,83.045304882988,83.0869470550891
+Cambodia,KHM,Current health expenditure (% of GDP),6.33888054,4.46856117,4.61706829
+Cambodia,KHM,GDP per capita (constant 2015 US$),1938.764367417284,2011.2743331326217,2085.057484621225
+Cambodia,KHM,"Life expectancy at birth, total (years)",69.301,70.528,70.668
+Cambodia,KHM,"Mortality rate, infant (per 1,000 live births)",18.4,17.7,17.0
+Cambodia,KHM,People using at least basic sanitation services (% of population),73.7752065517154,77.0641162411033,80.3569034278216
+Cameroon,CMR,Current health expenditure (% of GDP),4.34109783,4.49439144,4.5545516
+Cameroon,CMR,GDP per capita (constant 2015 US$),1443.576002376632,1458.661804316926,1468.1783700733736
+Cameroon,CMR,"Life expectancy at birth, total (years)",61.146,62.443,63.7
+Cameroon,CMR,"Mortality rate, infant (per 1,000 live births)",44.1,42.7,41.3
+Cameroon,CMR,People using at least basic sanitation services (% of population),45.7300133468788,46.1747220268822,46.6226225275107
+Canada,CAN,Current health expenditure (% of GDP),12.38106632,11.08119678,11.18692875
+Canada,CAN,GDP per capita (constant 2015 US$),44639.23811719925,45883.005894189206,45495.51008926053
+Canada,CAN,"Life expectancy at birth, total (years)",81.45146341463416,81.0948780487805,81.62634146341465
+Canada,CAN,"Mortality rate, infant (per 1,000 live births)",4.6,4.6,4.7
+Canada,CAN,People using at least basic sanitation services (% of population),98.5885671606396,98.5883597851291,98.5881318805776
+Cayman Islands,CYM,Current health expenditure (% of GDP),,,
+Cayman Islands,CYM,GDP per capita (constant 2015 US$),77259.63310960575,79942.11962902479,82906.54549439541
+Cayman Islands,CYM,"Life expectancy at birth, total (years)",79.3,79.984,80.358
+Cayman Islands,CYM,"Mortality rate, infant (per 1,000 live births)",,,
+Cayman Islands,CYM,People using at least basic sanitation services (% of population),83.2879829754601,83.2662883435582,83.2442168711656
+Central African Republic,CAF,Current health expenditure (% of GDP),9.15097523,9.94993496,10.65553188
+Central African Republic,CAF,GDP per capita (constant 2015 US$),396.02062293196144,398.9153979564201,397.4677957504514
+Central African Republic,CAF,"Life expectancy at birth, total (years)",40.279,18.818,57.408
+Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",96.3,206.8,60.8
+Central African Republic,CAF,People using at least basic sanitation services (% of population),13.7575074575386,13.8462941483121,13.939220081887
+Chad,TCD,Current health expenditure (% of GDP),3.9722333,4.15823555,4.99707747
+Chad,TCD,GDP per capita (constant 2015 US$),857.5276305797602,862.602128172536,856.9855072836983
+Chad,TCD,"Life expectancy at birth, total (years)",53.136,54.528,55.069
+Chad,TCD,"Mortality rate, infant (per 1,000 live births)",61.3,59.6,58.0
+Chad,TCD,People using at least basic sanitation services (% of population),12.823518442494,12.9220668166821,13.0279538007946
+Channel Islands,CHI,Current health expenditure (% of GDP),,,
+Channel Islands,CHI,GDP per capita (constant 2015 US$),64267.6930018122,67508.93852766637,69818.15281191039
+Channel Islands,CHI,"Life expectancy at birth, total (years)",80.3,81.0,81.1
+Channel Islands,CHI,"Mortality rate, infant (per 1,000 live births)",,,
+Channel Islands,CHI,People using at least basic sanitation services (% of population),,,
+Chile,CHL,Current health expenditure (% of GDP),9.72450161,10.0053072,10.17470455
+Chile,CHL,GDP per capita (constant 2015 US$),14056.251601954968,14275.409464621072,14294.710663559546
+Chile,CHL,"Life expectancy at birth, total (years)",78.876,79.176,81.167
+Chile,CHL,"Mortality rate, infant (per 1,000 live births)",5.8,5.9,5.9
+Chile,CHL,People using at least basic sanitation services (% of population),100.0,99.9999982963226,100.0
+China,CHN,Current health expenditure (% of GDP),5.25590324,5.88078785,5.94388866
+China,CHN,GDP per capita (constant 2015 US$),11469.317451451188,11830.298767860955,12483.979110124916
+China,CHN,"Life expectancy at birth, total (years)",78.117,78.202,77.953
+China,CHN,"Mortality rate, infant (per 1,000 live births)",5.1,4.8,4.4
+China,CHN,People using at least basic sanitation services (% of population),94.3857583646751,95.8923648413213,97.2411682339468
+Colombia,COL,Current health expenditure (% of GDP),9.14150524,7.59037256,8.15838146
+Colombia,COL,GDP per capita (constant 2015 US$),6457.169218070858,6856.725905053739,6837.373920845344
+Colombia,COL,"Life expectancy at birth, total (years)",72.698,76.508,77.725
+Colombia,COL,"Mortality rate, infant (per 1,000 live births)",11.5,11.2,10.8
+Colombia,COL,People using at least basic sanitation services (% of population),93.9711220297613,94.8425154559797,95.7128008202529
+Comoros,COM,Current health expenditure (% of GDP),6.46315002,8.47119522,6.55212021
+Comoros,COM,GDP per capita (constant 2015 US$),1360.3266336146237,1366.9513495528952,1383.6420175957458
+Comoros,COM,"Life expectancy at birth, total (years)",65.201,66.481,66.777
+Comoros,COM,"Mortality rate, infant (per 1,000 live births)",38.0,37.0,36.0
+Comoros,COM,People using at least basic sanitation services (% of population),53.7961210274577,54.9623663372908,56.104836588019
+"Congo, Dem. Rep.",COD,Current health expenditure (% of GDP),3.86727977,3.9417696,3.68495083
+"Congo, Dem. Rep.",COD,GDP per capita (constant 2015 US$),485.1608059297844,513.5127043721666,539.4591263791301
+"Congo, Dem. Rep.",COD,"Life expectancy at birth, total (years)",60.044,60.979,61.895
+"Congo, Dem. Rep.",COD,"Mortality rate, infant (per 1,000 live births)",57.6,57.6,57.2
+"Congo, Dem. Rep.",COD,People using at least basic sanitation services (% of population),16.1461710925268,16.1744730669276,16.2386817602994
+"Congo, Rep.",COG,Current health expenditure (% of GDP),3.46133351,2.30011368,3.29744148
+"Congo, Rep.",COG,GDP per capita (constant 2015 US$),1701.790604568719,1686.0023439138515,1677.085492059241
+"Congo, Rep.",COG,"Life expectancy at birth, total (years)",64.192,65.0,65.772
+"Congo, Rep.",COG,"Mortality rate, infant (per 1,000 live births)",29.4,28.5,27.7
+"Congo, Rep.",COG,People using at least basic sanitation services (% of population),20.5548099594917,,
+Costa Rica,CRI,Current health expenditure (% of GDP),7.61130476,7.18368196,6.8663702
+Costa Rica,CRI,GDP per capita (constant 2015 US$),13267.254950803512,13931.846161476393,14531.500513746569
+Costa Rica,CRI,"Life expectancy at birth, total (years)",78.05,79.316,80.799
+Costa Rica,CRI,"Mortality rate, infant (per 1,000 live births)",8.3,8.6,8.8
+Costa Rica,CRI,People using at least basic sanitation services (% of population),98.265064236441,98.4434940972081,98.6179737414505
+Cote d'Ivoire,CIV,Current health expenditure (% of GDP),3.76207662,3.63847613,3.43218303
+Cote d'Ivoire,CIV,GDP per capita (constant 2015 US$),2146.460475290115,2227.0819782058425,2315.3643471032387
+Cote d'Ivoire,CIV,"Life expectancy at birth, total (years)",60.29,61.562,61.944
+Cote d'Ivoire,CIV,"Mortality rate, infant (per 1,000 live births)",48.7,47.4,46.2
+Cote d'Ivoire,CIV,People using at least basic sanitation services (% of population),37.704616869195,38.6680398290793,39.6407426651959
+Croatia,HRV,Current health expenditure (% of GDP),8.08265686,7.29636335,7.14699411
+Croatia,HRV,GDP per capita (constant 2015 US$),15395.286160512796,16618.333378618263,17225.45045156968
+Croatia,HRV,"Life expectancy at birth, total (years)",76.42439024390245,77.57560975609756,78.47317073170733
+Croatia,HRV,"Mortality rate, infant (per 1,000 live births)",3.9,3.9,4.0
+Croatia,HRV,People using at least basic sanitation services (% of population),95.7936994032533,,
+Cuba,CUB,Current health expenditure (% of GDP),13.78746605,11.78773499,9.38383102
+Cuba,CUB,GDP per capita (constant 2015 US$),7379.042752836741,7552.331522188416,7433.428853996736
+Cuba,CUB,"Life expectancy at birth, total (years)",73.201,77.629,78.085
+Cuba,CUB,"Mortality rate, infant (per 1,000 live births)",5.9,6.2,6.5
+Cuba,CUB,People using at least basic sanitation services (% of population),92.8284902817438,93.4747105097717,94.1220801306732
+Curacao,CUW,Current health expenditure (% of GDP),,,
+Curacao,CUW,GDP per capita (constant 2015 US$),15625.411322795304,16772.81469891534,17326.964548133557
+Curacao,CUW,"Life expectancy at birth, total (years)",75.686,76.729,76.8
+Curacao,CUW,"Mortality rate, infant (per 1,000 live births)",,,
+Curacao,CUW,People using at least basic sanitation services (% of population),,,
+Cyprus,CYP,Current health expenditure (% of GDP),8.87445068,8.27201366,8.11912918
+Cyprus,CYP,GDP per capita (constant 2015 US$),29517.05859375,31505.2109375,32022.01953125
+Cyprus,CYP,"Life expectancy at birth, total (years)",80.573,80.434,81.648
+Cyprus,CYP,"Mortality rate, infant (per 1,000 live births)",3.0,3.4,3.8
+Cyprus,CYP,People using at least basic sanitation services (% of population),99.4893875128893,99.4830286709908,99.4768823557025
+Czechia,CZE,Current health expenditure (% of GDP),9.15420723,8.47063065,8.42677402
+Czechia,CZE,GDP per capita (constant 2015 US$),20373.878304342365,20627.34865101097,20272.587401733424
+Czechia,CZE,"Life expectancy at birth, total (years)",77.2219512195122,78.92926829268293,79.8268292682927
+Czechia,CZE,"Mortality rate, infant (per 1,000 live births)",2.3,2.2,2.1
+Czechia,CZE,People using at least basic sanitation services (% of population),99.0721814938167,99.0715177493914,99.0708089030162
+Denmark,DNK,Current health expenditure (% of GDP),10.65575886,9.47411346,9.5572958
+Denmark,DNK,GDP per capita (constant 2015 US$),59312.81580437706,59108.74493740683,59026.98436509993
+Denmark,DNK,"Life expectancy at birth, total (years)",81.40487804878049,81.3048780487805,81.75365853658539
+Denmark,DNK,"Mortality rate, infant (per 1,000 live births)",3.3,3.3,3.4
+Denmark,DNK,People using at least basic sanitation services (% of population),99.5972289739284,99.5972313839473,99.5972246130908
+Djibouti,DJI,Current health expenditure (% of GDP),2.87128091,2.52554536,2.28316021
+Djibouti,DJI,GDP per capita (constant 2015 US$),2854.15987035097,2959.786730112679,3117.8155381531
+Djibouti,DJI,"Life expectancy at birth, total (years)",63.83,65.54,65.987
+Djibouti,DJI,"Mortality rate, infant (per 1,000 live births)",47.3,45.8,44.4
+Djibouti,DJI,People using at least basic sanitation services (% of population),66.8311205695029,66.9247194918968,67.0234840121481
+Dominica,DMA,Current health expenditure (% of GDP),6.31142521,5.97262001,5.00757647
+Dominica,DMA,GDP per capita (constant 2015 US$),7738.317300703863,8590.922090698159,8946.988225880425
+Dominica,DMA,"Life expectancy at birth, total (years)",69.832,71.081,71.132
+Dominica,DMA,"Mortality rate, infant (per 1,000 live births)",32.1,32.7,33.1
+Dominica,DMA,People using at least basic sanitation services (% of population),,,
+Dominican Republic,DOM,Current health expenditure (% of GDP),5.08839989,4.64506817,4.59880495
+Dominican Republic,DOM,GDP per capita (constant 2015 US$),8344.905103123949,8698.135920943952,8809.96335385949
+Dominican Republic,DOM,"Life expectancy at birth, total (years)",71.757,74.211,73.72
+Dominican Republic,DOM,"Mortality rate, infant (per 1,000 live births)",29.8,29.1,28.4
+Dominican Republic,DOM,People using at least basic sanitation services (% of population),88.5790077931484,89.0968114947434,89.6102380882298
+Ecuador,ECU,Current health expenditure (% of GDP),8.37526226,7.60183907,7.56167889
+Ecuador,ECU,GDP per capita (constant 2015 US$),5815.094773909489,6107.494950065426,6165.409775556953
+Ecuador,ECU,"Life expectancy at birth, total (years)",72.746,76.577,77.392
+Ecuador,ECU,"Mortality rate, infant (per 1,000 live births)",11.3,11.2,11.1
+Ecuador,ECU,People using at least basic sanitation services (% of population),88.9779601085787,89.7233208052462,90.5556911375942
+"Egypt, Arab Rep.",EGY,Current health expenditure (% of GDP),4.60955143,4.72362804,4.88449335
+"Egypt, Arab Rep.",EGY,GDP per capita (constant 2015 US$),3837.3199232525626,4029.782954582041,4111.311847901801
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, total (years)",68.976,71.01,71.633
+"Egypt, Arab Rep.",EGY,"Mortality rate, infant (per 1,000 live births)",22.2,21.8,21.3
+"Egypt, Arab Rep.",EGY,People using at least basic sanitation services (% of population),96.4288914179465,96.6466119170931,96.8657483684403
+El Salvador,SLV,Current health expenditure (% of GDP),10.12668991,9.82036304,9.28738594
+El Salvador,SLV,GDP per capita (constant 2015 US$),4247.547503949775,4355.960371085554,4481.196641083564
+El Salvador,SLV,"Life expectancy at birth, total (years)",69.941,71.969,72.099
+El Salvador,SLV,"Mortality rate, infant (per 1,000 live births)",9.8,9.5,9.2
+El Salvador,SLV,People using at least basic sanitation services (% of population),87.2765374387919,87.5371472547157,87.7919676704677
+Equatorial Guinea,GNQ,Current health expenditure (% of GDP),3.5103004,2.83726358,3.49941635
+Equatorial Guinea,GNQ,GDP per capita (constant 2015 US$),5487.924792019916,5524.243124185794,4992.260768145712
+Equatorial Guinea,GNQ,"Life expectancy at birth, total (years)",62.447,63.355,63.707
+Equatorial Guinea,GNQ,"Mortality rate, infant (per 1,000 live births)",52.2,50.7,49.2
+Equatorial Guinea,GNQ,People using at least basic sanitation services (% of population),,,
+Eritrea,ERI,Current health expenditure (% of GDP),4.17839003,3.87537837,3.6837678
+Eritrea,ERI,GDP per capita (constant 2015 US$),,,
+Eritrea,ERI,"Life expectancy at birth, total (years)",66.94,67.789,68.624
+Eritrea,ERI,"Mortality rate, infant (per 1,000 live births)",27.0,26.2,25.4
+Eritrea,ERI,People using at least basic sanitation services (% of population),,,
+Estonia,EST,Current health expenditure (% of GDP),7.47591066,6.93641424,7.47082138
+Estonia,EST,GDP per capita (constant 2015 US$),21570.66584552681,21023.299493724604,20126.37304869572
+Estonia,EST,"Life expectancy at birth, total (years)",76.9439024390244,77.84390243902439,78.79268292682927
+Estonia,EST,"Mortality rate, infant (per 1,000 live births)",1.8,1.7,1.6
+Estonia,EST,People using at least basic sanitation services (% of population),99.0261691561023,99.0241800879557,99.0220443822146
+Eswatini,SWZ,Current health expenditure (% of GDP),7.40552139,7.2449131,7.49763966
+Eswatini,SWZ,GDP per capita (constant 2015 US$),3719.03838239806,3695.649571795481,3790.165767880914
+Eswatini,SWZ,"Life expectancy at birth, total (years)",58.228,63.028,64.123
+Eswatini,SWZ,"Mortality rate, infant (per 1,000 live births)",46.2,45.9,44.7
+Eswatini,SWZ,People using at least basic sanitation services (% of population),62.6692355268683,63.2702587161203,63.8676533294277
+Ethiopia,ETH,Current health expenditure (% of GDP),3.20779967,2.85298109,2.80310345
+Ethiopia,ETH,GDP per capita (constant 2015 US$),790.6570196024576,811.1777293373209,842.446604881663
+Ethiopia,ETH,"Life expectancy at birth, total (years)",65.33,66.897,67.315
+Ethiopia,ETH,"Mortality rate, infant (per 1,000 live births)",49.9,48.3,38.7
+Ethiopia,ETH,People using at least basic sanitation services (% of population),9.3447728615381,9.67915935964554,10.0168072289161
+Faroe Islands,FRO,Current health expenditure (% of GDP),,,
+Faroe Islands,FRO,GDP per capita (constant 2015 US$),56275.53066141242,57784.72237029138,59067.56374462965
+Faroe Islands,FRO,"Life expectancy at birth, total (years)",82.67632195121953,82.8162292682927,82.95211951219514
+Faroe Islands,FRO,"Mortality rate, infant (per 1,000 live births)",,,
+Faroe Islands,FRO,People using at least basic sanitation services (% of population),,,
+Fiji,FJI,Current health expenditure (% of GDP),7.06084681,4.01752949,3.61524153
+Fiji,FJI,GDP per capita (constant 2015 US$),4507.333530133352,5291.516924394506,5761.56947891018
+Fiji,FJI,"Life expectancy at birth, total (years)",64.904,67.148,67.316
+Fiji,FJI,"Mortality rate, infant (per 1,000 live births)",22.6,23.2,23.5
+Fiji,FJI,People using at least basic sanitation services (% of population),93.3328625255853,93.0437432138971,92.7542060099235
+Finland,FIN,Current health expenditure (% of GDP),9.90969753,9.74152565,10.47389507
+Finland,FIN,GDP per capita (constant 2015 US$),45792.04541808715,46016.149210392905,45196.481440013646
+Finland,FIN,"Life expectancy at birth, total (years)",81.88536585365854,81.1878048780488,81.58536585365854
+Finland,FIN,"Mortality rate, infant (per 1,000 live births)",1.9,1.9,1.9
+Finland,FIN,People using at least basic sanitation services (% of population),99.4479633785746,99.447963421715,99.4479540389609
+France,FRA,Current health expenditure (% of GDP),12.24894238,11.82888794,11.51974583
+France,FRA,GDP per capita (constant 2015 US$),38030.85716851778,38868.330333055725,39319.41522272951
+France,FRA,"Life expectancy at birth, total (years)",82.32439024390244,82.12926829268294,82.83170731707318
+France,FRA,"Mortality rate, infant (per 1,000 live births)",3.4,3.4,3.4
+France,FRA,People using at least basic sanitation services (% of population),98.6468028432762,98.6459966836726,98.6451856910254
+French Polynesia,PYF,Current health expenditure (% of GDP),,,
+French Polynesia,PYF,GDP per capita (constant 2015 US$),19626.23325402057,20160.49942983793,20664.97702592248
+French Polynesia,PYF,"Life expectancy at birth, total (years)",79.571,83.859,84.07
+French Polynesia,PYF,"Mortality rate, infant (per 1,000 live births)",,,
+French Polynesia,PYF,People using at least basic sanitation services (% of population),97.5429803887293,97.531950108843,97.5209198289567
+Gabon,GAB,Current health expenditure (% of GDP),2.79254127,2.89087176,3.13430715
+Gabon,GAB,GDP per capita (constant 2015 US$),6479.049006925196,6527.482079018615,6541.253686180423
+Gabon,GAB,"Life expectancy at birth, total (years)",67.072,67.713,68.337
+Gabon,GAB,"Mortality rate, infant (per 1,000 live births)",28.5,27.5,26.9
+Gabon,GAB,People using at least basic sanitation services (% of population),54.3351602742865,55.8117052668054,57.3016336632799
+"Gambia, The",GMB,Current health expenditure (% of GDP),3.74321485,3.53697729,2.89250112
+"Gambia, The",GMB,GDP per capita (constant 2015 US$),689.4932395573704,710.6869792163163,735.6123840626163
+"Gambia, The",GMB,"Life expectancy at birth, total (years)",63.847,64.859,65.86
+"Gambia, The",GMB,"Mortality rate, infant (per 1,000 live births)",35.9,34.7,33.7
+"Gambia, The",GMB,People using at least basic sanitation services (% of population),47.5364188505618,47.7159912011406,47.9457928819298
+Georgia,GEO,Current health expenditure (% of GDP),10.53835487,8.29634285,6.85758877
+Georgia,GEO,GDP per capita (constant 2015 US$),5175.198651858251,5736.304495785975,6180.6206023429
+Georgia,GEO,"Life expectancy at birth, total (years)",71.635,74.141,74.496
+Georgia,GEO,"Mortality rate, infant (per 1,000 live births)",7.9,7.7,7.6
+Georgia,GEO,People using at least basic sanitation services (% of population),88.7819724294363,89.416046138405,90.04898468576
+Germany,DEU,Current health expenditure (% of GDP),12.72403336,12.44708347,11.74428654
+Germany,DEU,GDP per capita (constant 2015 US$),44011.019463167424,44817.13163313894,44368.99200748806
+Germany,DEU,"Life expectancy at birth, total (years)",80.79024390243903,80.6080487804878,81.04146341463415
+Germany,DEU,"Mortality rate, infant (per 1,000 live births)",3.1,3.1,3.1
+Germany,DEU,People using at least basic sanitation services (% of population),99.2258902349631,99.2262023543276,99.2265552501835
+Ghana,GHA,Current health expenditure (% of GDP),3.86030865,3.67459154,2.94686937
+Ghana,GHA,GDP per capita (constant 2015 US$),2030.0486650096652,2067.2089585552126,2091.8133559646526
+Ghana,GHA,"Life expectancy at birth, total (years)",64.286,65.246,65.498
+Ghana,GHA,"Mortality rate, infant (per 1,000 live births)",30.5,29.4,28.4
+Ghana,GHA,People using at least basic sanitation services (% of population),27.7916388048117,29.0423190138112,30.3048454596217
+Gibraltar,GIB,Current health expenditure (% of GDP),,,
+Gibraltar,GIB,GDP per capita (constant 2015 US$),,,
+Gibraltar,GIB,"Life expectancy at birth, total (years)",80.274,83.517,83.553
+Gibraltar,GIB,"Mortality rate, infant (per 1,000 live births)",,,
+Gibraltar,GIB,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Greece,GRC,Current health expenditure (% of GDP),9.03178692,8.44938278,8.39367008
+Greece,GRC,GDP per capita (constant 2015 US$),19231.28888035165,20550.50491582973,21050.86481115808
+Greece,GRC,"Life expectancy at birth, total (years)",80.0829268292683,80.78780487804879,81.73658536585367
+Greece,GRC,"Mortality rate, infant (per 1,000 live births)",3.4,3.3,3.3
+Greece,GRC,People using at least basic sanitation services (% of population),98.9971863349773,99.0005834270921,99.0039477070011
+Greenland,GRL,Current health expenditure (% of GDP),,,
+Greenland,GRL,GDP per capita (constant 2015 US$),48709.93397588946,49679.33654148947,49929.77554286051
+Greenland,GRL,"Life expectancy at birth, total (years)",71.26146341463416,71.23024390243903,70.97243902439024
+Greenland,GRL,"Mortality rate, infant (per 1,000 live births)",,,
+Greenland,GRL,People using at least basic sanitation services (% of population),62.5,62.5,
+Grenada,GRD,Current health expenditure (% of GDP),5.27963448,4.99701262,4.65330839
+Grenada,GRD,GDP per capita (constant 2015 US$),8782.321934260775,9406.193376432257,9817.863835839164
+Grenada,GRD,"Life expectancy at birth, total (years)",74.522,75.151,75.205
+Grenada,GRD,"Mortality rate, infant (per 1,000 live births)",17.0,16.9,16.7
+Grenada,GRD,People using at least basic sanitation services (% of population),92.6192396904393,92.6192396904393,92.6192396904393
+Guam,GUM,Current health expenditure (% of GDP),,,
+Guam,GUM,GDP per capita (constant 2015 US$),33239.48463278749,34627.986278183744,
+Guam,GUM,"Life expectancy at birth, total (years)",75.434,77.102,77.209
+Guam,GUM,"Mortality rate, infant (per 1,000 live births)",,,
+Guam,GUM,People using at least basic sanitation services (% of population),90.3128042815002,90.3765791487569,90.3765791487569
+Guatemala,GTM,Current health expenditure (% of GDP),7.35698891,7.1678791,6.80241346
+Guatemala,GTM,GDP per capita (constant 2015 US$),4268.6286446149215,4383.903261604806,4469.05514652918
+Guatemala,GTM,"Life expectancy at birth, total (years)",67.858,71.206,72.602
+Guatemala,GTM,"Mortality rate, infant (per 1,000 live births)",18.9,18.3,17.7
+Guatemala,GTM,People using at least basic sanitation services (% of population),69.4621730094076,70.0349423501554,70.6041253212475
+Guinea,GIN,Current health expenditure (% of GDP),3.7175858,3.83292699,3.69442987
+Guinea,GIN,GDP per capita (constant 2015 US$),973.646890096159,987.5025014653368,1016.880948003239
+Guinea,GIN,"Life expectancy at birth, total (years)",59.373,60.432,60.74
+Guinea,GIN,"Mortality rate, infant (per 1,000 live births)",64.4,62.9,61.4
+Guinea,GIN,People using at least basic sanitation services (% of population),30.0258495167405,31.2707423118105,32.538855541003
+Guinea-Bissau,GNB,Current health expenditure (% of GDP),8.39794922,8.33752728,8.82204819
+Guinea-Bissau,GNB,GDP per capita (constant 2015 US$),729.3968827579417,752.1492552172493,769.5046524617952
+Guinea-Bissau,GNB,"Life expectancy at birth, total (years)",61.653,63.605,64.085
+Guinea-Bissau,GNB,"Mortality rate, infant (per 1,000 live births)",45.9,44.7,43.4
+Guinea-Bissau,GNB,People using at least basic sanitation services (% of population),28.6139998460415,28.7228575496477,28.8319728978299
+Guyana,GUY,Current health expenditure (% of GDP),4.64326477,2.52456355,2.46673751
+Guyana,GUY,GDP per capita (constant 2015 US$),10711.99733741478,17365.333642864207,23101.353828274085
+Guyana,GUY,"Life expectancy at birth, total (years)",64.323,69.888,70.18
+Guyana,GUY,"Mortality rate, infant (per 1,000 live births)",25.5,24.8,24.0
+Guyana,GUY,People using at least basic sanitation services (% of population),90.6881198033659,91.3010008247863,91.3046762515848
+Haiti,HTI,Current health expenditure (% of GDP),3.57739854,3.20755076,3.19156528
+Haiti,HTI,GDP per capita (constant 2015 US$),1292.7195496355114,1256.7214359244783,1219.118716458474
+Haiti,HTI,"Life expectancy at birth, total (years)",62.613,63.948,64.936
+Haiti,HTI,"Mortality rate, infant (per 1,000 live births)",42.5,41.3,40.1
+Haiti,HTI,People using at least basic sanitation services (% of population),28.793303113228,28.9133013445226,29.0180834702733
+Honduras,HND,Current health expenditure (% of GDP),9.27311516,8.15452766,7.70976162
+Honduras,HND,GDP per capita (constant 2015 US$),2423.766349169109,2482.2238490471364,2527.273663331885
+Honduras,HND,"Life expectancy at birth, total (years)",69.492,72.715,72.884
+Honduras,HND,"Mortality rate, infant (per 1,000 live births)",14.0,13.6,13.2
+Honduras,HND,People using at least basic sanitation services (% of population),84.9512648992071,85.8633965875938,86.7701956081898
+"Hong Kong SAR, China",HKG,Current health expenditure (% of GDP),,,
+"Hong Kong SAR, China",HKG,GDP per capita (constant 2015 US$),44530.9213833761,43281.00673096465,43518.93117899184
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, total (years)",85.53268292682927,83.66097560975611,85.24731707317075
+"Hong Kong SAR, China",HKG,"Mortality rate, infant (per 1,000 live births)",,,
+"Hong Kong SAR, China",HKG,People using at least basic sanitation services (% of population),95.19927375677,95.077640324963,94.956006893156
+Hungary,HUN,Current health expenditure (% of GDP),7.33524847,6.6474123,6.36868954
+Hungary,HUN,GDP per capita (constant 2015 US$),15787.953542756264,16487.797393594446,16375.046272419238
+Hungary,HUN,"Life expectancy at birth, total (years)",74.06585365853658,75.86829268292684,76.5707317073171
+Hungary,HUN,"Mortality rate, infant (per 1,000 live births)",3.3,3.2,3.2
+Hungary,HUN,People using at least basic sanitation services (% of population),97.9812382429156,97.9787350415865,97.976195278385
+Iceland,ISL,Current health expenditure (% of GDP),9.72073746,9.08145332,8.70510101
+Iceland,ISL,GDP per capita (constant 2015 US$),54285.020920324176,57626.25337175845,59951.753773969234
+Iceland,ISL,"Life expectancy at birth, total (years)",83.16585365853659,82.11951219512197,82.45609756097564
+Iceland,ISL,"Mortality rate, infant (per 1,000 live births)",2.1,2.2,2.1
+Iceland,ISL,People using at least basic sanitation services (% of population),98.7799498182969,98.7793239094093,98.7786759933373
+India,IND,Current health expenditure (% of GDP),3.34680939,3.39623499,3.33944035
+India,IND,GDP per capita (constant 2015 US$),1965.3094343747164,2098.2112447612194,2229.71491223037
+India,IND,"Life expectancy at birth, total (years)",67.282,71.698,72.003
+India,IND,"Mortality rate, infant (per 1,000 live births)",27.0,25.7,24.5
+India,IND,People using at least basic sanitation services (% of population),74.9328568041953,77.8161883735175,80.6978943350927
+Indonesia,IDN,Current health expenditure (% of GDP),3.70634937,2.69389749,2.70239949
+Indonesia,IDN,GDP per capita (constant 2015 US$),3850.688772539029,4024.912252883909,4192.644010341808
+Indonesia,IDN,"Life expectancy at birth, total (years)",67.452,70.925,71.146
+Indonesia,IDN,"Mortality rate, infant (per 1,000 live births)",17.0,16.3,15.7
+Indonesia,IDN,People using at least basic sanitation services (% of population),84.339850898343,85.6486611717997,86.9363345400971
+"Iran, Islamic Rep.",IRN,Current health expenditure (% of GDP),4.85886621,5.62794113,6.02542305
+"Iran, Islamic Rep.",IRN,GDP per capita (constant 2015 US$),5300.622719618949,5465.314475394131,5687.843962687416
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, total (years)",73.752,76.799,77.654
+"Iran, Islamic Rep.",IRN,"Mortality rate, infant (per 1,000 live births)",11.4,11.0,10.6
+"Iran, Islamic Rep.",IRN,People using at least basic sanitation services (% of population),90.3162236149744,90.3647309306855,90.4119852074826
+Iraq,IRQ,Current health expenditure (% of GDP),5.14179993,4.33226347,5.53275251
+Iraq,IRQ,GDP per capita (constant 2015 US$),4182.500640458252,4412.997331465115,4337.087053242201
+Iraq,IRQ,"Life expectancy at birth, total (years)",70.704,72.037,72.324
+Iraq,IRQ,"Mortality rate, infant (per 1,000 live births)",22.1,21.4,20.7
+Iraq,IRQ,People using at least basic sanitation services (% of population),98.4959720542325,98.4987799022337,98.501709975411
+Ireland,IRL,Current health expenditure (% of GDP),6.44113493,6.02078247,6.57538509
+Ireland,IRL,GDP per capita (constant 2015 US$),92781.2322150786,97793.53666716968,93541.96436783814
+Ireland,IRL,"Life expectancy at birth, total (years)",82.25365853658538,82.50975609756098,82.80731707317074
+Ireland,IRL,"Mortality rate, infant (per 1,000 live births)",3.2,3.3,3.4
+Ireland,IRL,People using at least basic sanitation services (% of population),89.7724871048145,89.757648052779,89.742009351926
+Isle of Man,IMN,Current health expenditure (% of GDP),,,
+Isle of Man,IMN,GDP per capita (constant 2015 US$),89873.54200935694,86100.56729170374,84315.13799295397
+Isle of Man,IMN,"Life expectancy at birth, total (years)",80.42,80.956,80.999
+Isle of Man,IMN,"Mortality rate, infant (per 1,000 live births)",,,
+Isle of Man,IMN,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Israel,ISR,Current health expenditure (% of GDP),7.83961058,7.12004995,7.09822369
+Israel,ISR,GDP per capita (constant 2015 US$),40788.23917851977,42539.27487666889,42131.74156758061
+Israel,ISR,"Life expectancy at birth, total (years)",82.50000000000001,82.70000000000002,83.19512195121952
+Israel,ISR,"Mortality rate, infant (per 1,000 live births)",2.8,2.7,2.7
+Israel,ISR,People using at least basic sanitation services (% of population),99.9301799523059,99.924519816082,99.9190335270473
+Italy,ITA,Current health expenditure (% of GDP),9.28164482,8.85022926,8.40559483
+Italy,ITA,GDP per capita (constant 2015 US$),32267.70910502011,33891.886652621615,34221.71829282708
+Italy,ITA,"Life expectancy at birth, total (years)",82.64634146341464,82.70000000000002,83.35121951219513
+Italy,ITA,"Mortality rate, infant (per 1,000 live births)",2.5,2.4,2.3
+Italy,ITA,People using at least basic sanitation services (% of population),99.8850975832792,99.8850325902598,99.8849719036501
+Jamaica,JAM,Current health expenditure (% of GDP),8.00261688,8.65338707,7.60493946
+Jamaica,JAM,GDP per capita (constant 2015 US$),5607.453782538768,5965.461274648727,6127.907712634335
+Jamaica,JAM,"Life expectancy at birth, total (years)",69.085,71.481,71.479
+Jamaica,JAM,"Mortality rate, infant (per 1,000 live births)",17.1,16.9,16.7
+Jamaica,JAM,People using at least basic sanitation services (% of population),90.0509072917054,90.5767034338028,91.1018987715533
+Japan,JPN,Current health expenditure (% of GDP),12.08108234,12.32275677,10.73979473
+Japan,JPN,GDP per capita (constant 2015 US$),36792.55642947405,37448.35048248489,37902.54922044109
+Japan,JPN,"Life expectancy at birth, total (years)",84.44560975609757,83.99634146341464,84.04121951219513
+Japan,JPN,"Mortality rate, infant (per 1,000 live births)",1.8,1.8,1.8
+Japan,JPN,People using at least basic sanitation services (% of population),99.9501173283763,99.9478483591655,99.9455793899546
+Jordan,JOR,Current health expenditure (% of GDP),7.69733906,7.73623276,7.66000605
+Jordan,JOR,GDP per capita (constant 2015 US$),4266.3790298994,4309.614328568043,4373.38088482368
+Jordan,JOR,"Life expectancy at birth, total (years)",74.204,77.088,77.814
+Jordan,JOR,"Mortality rate, infant (per 1,000 live births)",13.0,12.6,12.3
+Jordan,JOR,People using at least basic sanitation services (% of population),96.7318948068054,96.6260204300308,96.5203168428374
+Kazakhstan,KAZ,Current health expenditure (% of GDP),3.98701859,3.74577999,3.76701546
+Kazakhstan,KAZ,GDP per capita (constant 2015 US$),10873.391527527603,11058.348241340698,11453.39527253626
+Kazakhstan,KAZ,"Life expectancy at birth, total (years)",70.131,73.503,74.402
+Kazakhstan,KAZ,"Mortality rate, infant (per 1,000 live births)",7.9,7.7,7.6
+Kazakhstan,KAZ,People using at least basic sanitation services (% of population),97.9538478987078,97.9526402205332,97.948876378574
+Kenya,KEN,Current health expenditure (% of GDP),4.56992722,4.32241869,4.35172892
+Kenya,KEN,GDP per capita (constant 2015 US$),1698.8957827144363,1747.5319880442844,1811.2165183842496
+Kenya,KEN,"Life expectancy at birth, total (years)",61.225,63.549,63.646
+Kenya,KEN,"Mortality rate, infant (per 1,000 live births)",36.0,35.5,34.7
+Kenya,KEN,People using at least basic sanitation services (% of population),38.7368777065186,39.454252565811,40.1703366344741
+Kiribati,KIR,Current health expenditure (% of GDP),11.83228588,10.52553844,10.94525623
+Kiribati,KIR,GDP per capita (constant 2015 US$),1895.6136295722151,1960.154758449764,1990.1460592210367
+Kiribati,KIR,"Life expectancy at birth, total (years)",64.148,66.269,66.473
+Kiribati,KIR,"Mortality rate, infant (per 1,000 live births)",41.6,40.7,39.8
+Kiribati,KIR,People using at least basic sanitation services (% of population),44.6738091395008,45.0352022161591,45.1052498687683
+"Korea, Dem. People's Rep.",PRK,Current health expenditure (% of GDP),,,
+"Korea, Dem. People's Rep.",PRK,GDP per capita (constant 2015 US$),,,
+"Korea, Dem. People's Rep.",PRK,"Life expectancy at birth, total (years)",73.437,73.641,73.642
+"Korea, Dem. People's Rep.",PRK,"Mortality rate, infant (per 1,000 live births)",14.1,14.3,14.5
+"Korea, Dem. People's Rep.",PRK,People using at least basic sanitation services (% of population),84.7140378530296,84.7650382260713,84.8184516885649
+"Korea, Rep.",KOR,Current health expenditure (% of GDP),8.34412766,8.8595314,8.5650692
+"Korea, Rep.",KOR,GDP per capita (constant 2015 US$),34792.93972145982,35809.01381051443,36347.7036392553
+"Korea, Rep.",KOR,"Life expectancy at birth, total (years)",83.52682926829269,82.68048780487806,83.42926829268293
+"Korea, Rep.",KOR,"Mortality rate, infant (per 1,000 live births)",2.5,2.4,2.4
+"Korea, Rep.",KOR,People using at least basic sanitation services (% of population),99.7784787407445,99.762103695696,99.7457286506475
+Kosovo,XKX,Current health expenditure (% of GDP),,,
+Kosovo,XKX,GDP per capita (constant 2015 US$),4429.873894408571,4666.38918595784,5102.746749219078
+Kosovo,XKX,"Life expectancy at birth, total (years)",74.981,77.623,78.033
+Kosovo,XKX,"Mortality rate, infant (per 1,000 live births)",9.1,8.7,8.3
+Kosovo,XKX,People using at least basic sanitation services (% of population),,,
+Kuwait,KWT,Current health expenditure (% of GDP),5.37273169,4.20024538,4.96311998
+Kuwait,KWT,GDP per capita (constant 2015 US$),26203.261725785575,26579.832164687632,24722.814370185697
+Kuwait,KWT,"Life expectancy at birth, total (years)",78.73658536585367,80.58780487804879,83.1878048780488
+Kuwait,KWT,"Mortality rate, infant (per 1,000 live births)",7.5,7.4,7.2
+Kuwait,KWT,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Kyrgyz Republic,KGZ,Current health expenditure (% of GDP),5.35275602,5.04874945,4.50344467
+Kyrgyz Republic,KGZ,GDP per capita (constant 2015 US$),1132.5546781282012,1212.1781272176838,1298.2572448221135
+Kyrgyz Republic,KGZ,"Life expectancy at birth, total (years)",71.9,72.04878048780488,72.2487804878049
+Kyrgyz Republic,KGZ,"Mortality rate, infant (per 1,000 live births)",15.3,15.1,15.0
+Kyrgyz Republic,KGZ,People using at least basic sanitation services (% of population),98.1478549913374,98.278227766543,98.4088738227501
+Lao PDR,LAO,Current health expenditure (% of GDP),2.74392009,2.01825476,1.32651615
+Lao PDR,LAO,GDP per capita (constant 2015 US$),2556.5891264040542,2589.0501519162817,2648.8872660803527
+Lao PDR,LAO,"Life expectancy at birth, total (years)",67.807,68.715,68.964
+Lao PDR,LAO,"Mortality rate, infant (per 1,000 live births)",30.5,29.3,28.2
+Lao PDR,LAO,People using at least basic sanitation services (% of population),83.0975867054683,85.1292056400031,86.9959981840748
+Latvia,LVA,Current health expenditure (% of GDP),9.4105072,8.1044302,7.27783823
+Latvia,LVA,GDP per capita (constant 2015 US$),16070.168003232237,16421.37485959996,16229.384452024511
+Latvia,LVA,"Life expectancy at birth, total (years)",72.98048780487807,74.27804878048782,75.42682926829269
+Latvia,LVA,"Mortality rate, infant (per 1,000 live births)",2.9,2.6,2.4
+Latvia,LVA,People using at least basic sanitation services (% of population),92.0069797523466,92.2626087395691,92.5186835470802
+Lebanon,LBN,Current health expenditure (% of GDP),4.40006208,4.91255951,5.57497263
+Lebanon,LBN,GDP per capita (constant 2015 US$),5973.419338929876,5909.036515550277,5834.634157393939
+Lebanon,LBN,"Life expectancy at birth, total (years)",73.65,78.003,77.817
+Lebanon,LBN,"Mortality rate, infant (per 1,000 live births)",13.6,14.2,14.7
+Lebanon,LBN,People using at least basic sanitation services (% of population),99.2,99.2,99.2
+Lesotho,LSO,Current health expenditure (% of GDP),10.66165733,12.89569187,12.61182117
+Lesotho,LSO,GDP per capita (constant 2015 US$),955.221236301503,967.5192859832496,973.116561960912
+Lesotho,LSO,"Life expectancy at birth, total (years)",54.209,56.812,57.375
+Lesotho,LSO,"Mortality rate, infant (per 1,000 live births)",61.1,59.9,58.4
+Lesotho,LSO,People using at least basic sanitation services (% of population),44.0363729437393,45.3328485039477,46.6178621737328
+Liberia,LBR,Current health expenditure (% of GDP),13.27175999,13.58819675,13.00574875
+Liberia,LBR,GDP per capita (constant 2015 US$),621.9279830634256,638.0051838582892,653.3291883431617
+Liberia,LBR,"Life expectancy at birth, total (years)",61.166,61.934,62.163
+Liberia,LBR,"Mortality rate, infant (per 1,000 live births)",63.5,63.6,63.6
+Liberia,LBR,People using at least basic sanitation services (% of population),21.631407651363,22.1923063601074,22.7604195167576
+Libya,LBY,Current health expenditure (% of GDP),6.05457449,4.74433613,7.80515862
+Libya,LBY,GDP per capita (constant 2015 US$),7731.354481525813,7002.681892963579,7630.49664928174
+Libya,LBY,"Life expectancy at birth, total (years)",72.062,74.462,69.339
+Libya,LBY,"Mortality rate, infant (per 1,000 live births)",8.7,8.4,16.3
+Libya,LBY,People using at least basic sanitation services (% of population),88.8198215396721,88.712929707541,88.6060378754098
+Liechtenstein,LIE,Current health expenditure (% of GDP),5.38460207,5.64409113,5.71460724
+Liechtenstein,LIE,GDP per capita (constant 2015 US$),,,
+Liechtenstein,LIE,"Life expectancy at birth, total (years)",84.40243902439025,84.1219512195122,84.59512195121953
+Liechtenstein,LIE,"Mortality rate, infant (per 1,000 live births)",,,
+Liechtenstein,LIE,People using at least basic sanitation services (% of population),99.95,99.95,99.95
+Lithuania,LTU,Current health expenditure (% of GDP),7.73210812,7.24367952,7.31801939
+Lithuania,LTU,GDP per capita (constant 2015 US$),18572.289505109296,18873.84275272736,18748.93026471908
+Lithuania,LTU,"Life expectancy at birth, total (years)",74.03658536585367,75.64390243902439,77.29024390243904
+Lithuania,LTU,"Mortality rate, infant (per 1,000 live births)",3.0,2.9,2.9
+Lithuania,LTU,People using at least basic sanitation services (% of population),95.3414364231375,95.8940517663177,96.3848409552758
+Luxembourg,LUX,Current health expenditure (% of GDP),5.60806084,5.60926914,5.78777981
+Luxembourg,LUX,GDP per capita (constant 2015 US$),110873.11526902091,107467.1239653066,105422.76466019188
+Luxembourg,LUX,"Life expectancy at birth, total (years)",82.59756097560975,82.94634146341465,83.30975609756099
+Luxembourg,LUX,"Mortality rate, infant (per 1,000 live births)",2.0,2.0,1.9
+Luxembourg,LUX,People using at least basic sanitation services (% of population),97.6077017276341,97.6053918019199,97.6032304799558
+"Macao SAR, China",MAC,Current health expenditure (% of GDP),,,
+"Macao SAR, China",MAC,GDP per capita (constant 2015 US$),41634.23861399028,34000.71341283081,59474.396425161365
+"Macao SAR, China",MAC,"Life expectancy at birth, total (years)",83.72926829268295,83.08048780487806,83.18048780487806
+"Macao SAR, China",MAC,"Mortality rate, infant (per 1,000 live births)",,,
+"Macao SAR, China",MAC,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Madagascar,MDG,Current health expenditure (% of GDP),3.55335546,3.14948058,3.42822957
+Madagascar,MDG,GDP per capita (constant 2015 US$),431.5991030777461,438.43811210231496,445.8741020522671
+Madagascar,MDG,"Life expectancy at birth, total (years)",62.516,63.068,63.632
+Madagascar,MDG,"Mortality rate, infant (per 1,000 live births)",44.4,44.1,43.7
+Madagascar,MDG,People using at least basic sanitation services (% of population),14.2229663442332,14.7542849047499,15.2883891812498
+Malawi,MWI,Current health expenditure (% of GDP),7.5164628,6.62527609,6.53459597
+Malawi,MWI,GDP per capita (constant 2015 US$),569.9689673224348,560.6357597149408,557.0352396579104
+Malawi,MWI,"Life expectancy at birth, total (years)",64.782,66.037,67.353
+Malawi,MWI,"Mortality rate, infant (per 1,000 live births)",38.3,38.6,38.4
+Malawi,MWI,People using at least basic sanitation services (% of population),47.1071277327455,49.2412879464451,49.23687867184
+Malaysia,MYS,Current health expenditure (% of GDP),4.37438345,3.90037823,3.95760036
+Malaysia,MYS,GDP per capita (constant 2015 US$),10388.266712085682,11191.65117569426,11445.392527507936
+Malaysia,MYS,"Life expectancy at birth, total (years)",73.917,75.444,76.657
+Malaysia,MYS,"Mortality rate, infant (per 1,000 live births)",6.8,6.9,6.9
+Malaysia,MYS,People using at least basic sanitation services (% of population),96.0173467621383,96.0182636272288,96.0191440152349
+Maldives,MDV,Current health expenditure (% of GDP),8.85169506,7.4997015,9.24973583
+Maldives,MDV,GDP per capita (constant 2015 US$),9759.2219360708,10939.996327173774,11439.536434287054
+Maldives,MDV,"Life expectancy at birth, total (years)",78.052,80.76,81.041
+Maldives,MDV,"Mortality rate, infant (per 1,000 live births)",5.6,5.3,5.0
+Maldives,MDV,People using at least basic sanitation services (% of population),97.8641004075029,98.5962212934826,99.3176875376915
+Mali,MLI,Current health expenditure (% of GDP),3.54318666,3.72170115,3.81316996
+Mali,MLI,GDP per capita (constant 2015 US$),872.332509422409,877.8178424346419,892.6892195324289
+Mali,MLI,"Life expectancy at birth, total (years)",59.116,60.035,60.439
+Mali,MLI,"Mortality rate, infant (per 1,000 live births)",53.3,51.2,49.3
+Mali,MLI,People using at least basic sanitation services (% of population),43.8404477380485,45.1434215383033,46.4485840749361
+Malta,MLT,Current health expenditure (% of GDP),9.52782059,9.09105396,8.84301376
+Malta,MLT,GDP per capita (constant 2015 US$),31419.503171469325,31447.39173154184,33429.817209233646
+Malta,MLT,"Life expectancy at birth, total (years)",82.25853658536586,82.29756097560977,83.35609756097561
+Malta,MLT,"Mortality rate, infant (per 1,000 live births)",5.1,5.0,4.8
+Malta,MLT,People using at least basic sanitation services (% of population),99.9999977128228,99.9999984486759,100.0
+Marshall Islands,MHL,Current health expenditure (% of GDP),12.49257088,13.60796833,13.40528965
+Marshall Islands,MHL,GDP per capita (constant 2015 US$),5455.317040152778,5591.463931931031,5460.117959152135
+Marshall Islands,MHL,"Life expectancy at birth, total (years)",65.421,66.725,66.945
+Marshall Islands,MHL,"Mortality rate, infant (per 1,000 live births)",24.8,24.1,23.4
+Marshall Islands,MHL,People using at least basic sanitation services (% of population),78.7159193807723,78.8167730658642,78.9094220356239
+Mauritania,MRT,Current health expenditure (% of GDP),3.78022528,4.66962671,4.34333467
+Mauritania,MRT,GDP per capita (constant 2015 US$),1524.1175350230887,1580.7039152874677,1638.9922158302293
+Mauritania,MRT,"Life expectancy at birth, total (years)",66.762,68.281,68.484
+Mauritania,MRT,"Mortality rate, infant (per 1,000 live births)",33.0,32.1,31.1
+Mauritania,MRT,People using at least basic sanitation services (% of population),53.9267671870648,56.0758490078081,58.2608340232933
+Mauritius,MUS,Current health expenditure (% of GDP),6.6160841,5.84209728,5.56544495
+Mauritius,MUS,GDP per capita (constant 2015 US$),9849.348911218456,10703.236427146154,11330.733565576717
+Mauritius,MUS,"Life expectancy at birth, total (years)",73.68024390243903,73.51463414634146,73.41219512195123
+Mauritius,MUS,"Mortality rate, infant (per 1,000 live births)",14.1,13.9,13.8
+Mauritius,MUS,People using at least basic sanitation services (% of population),96.5249988240641,96.8074578506506,97.0904086099851
+Mexico,MEX,Current health expenditure (% of GDP),5.87678003,5.70919704,5.50398684
+Mexico,MEX,GDP per capita (constant 2015 US$),9728.056800245044,10013.24792270636,10234.68402656512
+Mexico,MEX,"Life expectancy at birth, total (years)",69.75,73.973,75.069
+Mexico,MEX,"Mortality rate, infant (per 1,000 live births)",13.1,12.8,12.4
+Mexico,MEX,People using at least basic sanitation services (% of population),92.1526440010022,92.6614618116548,92.9784568798496
+"Micronesia, Fed. Sts.",FSM,Current health expenditure (% of GDP),11.37430477,12.62718964,12.88087559
+"Micronesia, Fed. Sts.",FSM,GDP per capita (constant 2015 US$),3035.922517792324,2928.5246424595134,2948.077209752764
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, total (years)",66.152,66.961,67.198
+"Micronesia, Fed. Sts.",FSM,"Mortality rate, infant (per 1,000 live births)",22.3,21.6,20.9
+"Micronesia, Fed. Sts.",FSM,People using at least basic sanitation services (% of population),,,
+Moldova,MDA,Current health expenditure (% of GDP),7.7490406,6.96505404,6.7359705
+Moldova,MDA,GDP per capita (constant 2015 US$),3688.167294421437,3610.143153447185,3758.368819408199
+Moldova,MDA,"Life expectancy at birth, total (years)",68.991,71.546,71.198
+Moldova,MDA,"Mortality rate, infant (per 1,000 live births)",14.5,14.7,14.9
+Moldova,MDA,People using at least basic sanitation services (% of population),85.1600042772456,85.734993748898,86.3094330336137
+Monaco,MCO,Current health expenditure (% of GDP),3.67494631,3.39488029,3.11959291
+Monaco,MCO,GDP per capita (constant 2015 US$),194674.68616426204,214359.5051345753,225884.0771991251
+Monaco,MCO,"Life expectancy at birth, total (years)",85.113,85.746,86.372
+Monaco,MCO,"Mortality rate, infant (per 1,000 live births)",2.4,2.3,2.3
+Monaco,MCO,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Mongolia,MNG,Current health expenditure (% of GDP),7.21042728,8.85170174,6.07207489
+Mongolia,MNG,GDP per capita (constant 2015 US$),4063.5366984924535,4205.885545135513,4456.5362755272645
+Mongolia,MNG,"Life expectancy at birth, total (years)",71.64512195121952,71.90073170731708,72.12243902439025
+Mongolia,MNG,"Mortality rate, infant (per 1,000 live births)",11.8,11.6,11.4
+Mongolia,MNG,People using at least basic sanitation services (% of population),70.1321116661664,71.5023556683645,72.8851663037703
+Montenegro,MNE,Current health expenditure (% of GDP),10.55253506,10.19081783,9.6549921
+Montenegro,MNE,GDP per capita (constant 2015 US$),7198.301226544097,7773.599587910738,8278.024610062623
+Montenegro,MNE,"Life expectancy at birth, total (years)",73.82439024390244,76.1878048780488,77.58780487804879
+Montenegro,MNE,"Mortality rate, infant (per 1,000 live births)",2.3,2.1,2.0
+Montenegro,MNE,People using at least basic sanitation services (% of population),97.7911092113251,97.8104504105016,97.8297883395881
+Morocco,MAR,Current health expenditure (% of GDP),5.45314503,5.75281,6.06396198
+Morocco,MAR,GDP per capita (constant 2015 US$),3309.130859375,3334.91162109375,3421.21704101563
+Morocco,MAR,"Life expectancy at birth, total (years)",73.385,75.161,75.313
+Morocco,MAR,"Mortality rate, infant (per 1,000 live births)",16.5,15.9,15.3
+Morocco,MAR,People using at least basic sanitation services (% of population),87.3836441048483,87.5163508881869,87.6475617548846
+Mozambique,MOZ,Current health expenditure (% of GDP),8.64841366,8.24868107,8.50126553
+Mozambique,MOZ,GDP per capita (constant 2015 US$),588.2158546954162,596.0866309189647,610.5910416115379
+Mozambique,MOZ,"Life expectancy at birth, total (years)",60.268,63.011,63.611
+Mozambique,MOZ,"Mortality rate, infant (per 1,000 live births)",47.1,45.9,44.9
+Mozambique,MOZ,People using at least basic sanitation services (% of population),34.6331153020155,35.9385123672753,37.257486002339
+Myanmar,MMR,Current health expenditure (% of GDP),5.53530645,4.49158478,4.45748425
+Myanmar,MMR,GDP per capita (constant 2015 US$),1136.9956605413986,1174.7669794575463,1177.7664964556272
+Myanmar,MMR,"Life expectancy at birth, total (years)",65.553,66.506,66.889
+Myanmar,MMR,"Mortality rate, infant (per 1,000 live births)",36.0,34.9,33.8
+Myanmar,MMR,People using at least basic sanitation services (% of population),74.1054938787639,74.1301579655436,74.156188318795
+Namibia,NAM,Current health expenditure (% of GDP),10.19644737,9.6219883,9.48251629
+Namibia,NAM,GDP per capita (constant 2015 US$),3809.807533597145,3905.551352681636,3973.490105799979
+Namibia,NAM,"Life expectancy at birth, total (years)",60.85,64.19,67.385
+Namibia,NAM,"Mortality rate, infant (per 1,000 live births)",40.4,38.8,38.3
+Namibia,NAM,People using at least basic sanitation services (% of population),37.6969593429633,38.0587226800855,38.4005446833098
+Naoero,NRU,Current health expenditure (% of GDP),10.85399055,18.34229279,18.21076012
+Naoero,NRU,GDP per capita (constant 2015 US$),8325.882146634267,8260.973989911077,8150.433962639482
+Naoero,NRU,"Life expectancy at birth, total (years)",61.331,61.93,62.109
+Naoero,NRU,"Mortality rate, infant (per 1,000 live births)",9.4,8.7,8.2
+Naoero,NRU,People using at least basic sanitation services (% of population),70.2704718524126,70.6207080919845,70.9709291863493
+Nepal,NPL,Current health expenditure (% of GDP),5.53498316,6.52950287,6.15843678
+Nepal,NPL,GDP per capita (constant 2015 US$),1062.788843062899,1113.5546234122342,1136.4276931196962
+Nepal,NPL,"Life expectancy at birth, total (years)",68.385,70.087,70.354
+Nepal,NPL,"Mortality rate, infant (per 1,000 live births)",24.9,23.9,23.1
+Nepal,NPL,People using at least basic sanitation services (% of population),75.8233419830013,79.1866571655946,82.5877911140468
+Netherlands,NLD,Current health expenditure (% of GDP),11.13498974,10.03109169,9.83150005
+Netherlands,NLD,GDP per capita (constant 2015 US$),49780.83283525421,51777.531482827646,50960.781030530845
+Netherlands,NLD,"Life expectancy at birth, total (years)",81.30975609756098,81.61463414634147,81.86341463414635
+Netherlands,NLD,"Mortality rate, infant (per 1,000 live births)",3.5,3.4,3.4
+Netherlands,NLD,People using at least basic sanitation services (% of population),97.6777500278997,97.6702396117146,97.6632296431228
+New Caledonia,NCL,Current health expenditure (% of GDP),,,
+New Caledonia,NCL,GDP per capita (constant 2015 US$),,,
+New Caledonia,NCL,"Life expectancy at birth, total (years)",77.113,77.698,78.766
+New Caledonia,NCL,"Mortality rate, infant (per 1,000 live births)",,,
+New Caledonia,NCL,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+New Zealand,NZL,Current health expenditure (% of GDP),9.55072403,10.56814575,10.12947655
+New Zealand,NZL,GDP per capita (constant 2015 US$),41309.819845134414,42716.08667830337,42501.49320449682
+New Zealand,NZL,"Life expectancy at birth, total (years)",82.20731707317074,81.95853658536585,81.75853658536587
+New Zealand,NZL,"Mortality rate, infant (per 1,000 live births)",4.3,4.2,4.1
+New Zealand,NZL,People using at least basic sanitation services (% of population),99.9999956407702,100.0,99.999999971682
+Nicaragua,NIC,Current health expenditure (% of GDP),9.54984856,8.97882748,8.29879284
+Nicaragua,NIC,GDP per capita (constant 2015 US$),2128.308800413338,2175.738458938742,2241.1228811163014
+Nicaragua,NIC,"Life expectancy at birth, total (years)",70.478,74.463,74.947
+Nicaragua,NIC,"Mortality rate, infant (per 1,000 live births)",12.5,12.6,12.0
+Nicaragua,NIC,People using at least basic sanitation services (% of population),,,
+Niger,NER,Current health expenditure (% of GDP),5.81452751,4.34980488,4.04895782
+Niger,NER,GDP per capita (constant 2015 US$),520.912751008043,565.8733857943585,561.960694711722
+Niger,NER,"Life expectancy at birth, total (years)",59.542,60.398,61.183
+Niger,NER,"Mortality rate, infant (per 1,000 live births)",68.7,68.0,66.9
+Niger,NER,People using at least basic sanitation services (% of population),14.973899415173,15.4185833482363,15.8722896113192
+Nigeria,NGA,Current health expenditure (% of GDP),4.07625723,4.21020174,4.19086456
+Nigeria,NGA,GDP per capita (constant 2015 US$),2206.664062555641,2254.290804145981,2280.677771671623
+Nigeria,NGA,"Life expectancy at birth, total (years)",53.455,54.079,54.462
+Nigeria,NGA,"Mortality rate, infant (per 1,000 live births)",69.9,70.2,70.1
+Nigeria,NGA,People using at least basic sanitation services (% of population),45.4491559568794,46.5706755484283,47.7155813553496
+North Macedonia,MKD,Current health expenditure (% of GDP),8.41851234,7.42164755,7.42730284
+North Macedonia,MKD,GDP per capita (constant 2015 US$),6064.923151200224,6250.627209520625,6423.992213933695
+North Macedonia,MKD,"Life expectancy at birth, total (years)",73.24634146341464,74.4248780487805,75.31609756097562
+North Macedonia,MKD,"Mortality rate, infant (per 1,000 live births)",4.4,3.7,3.0
+North Macedonia,MKD,People using at least basic sanitation services (% of population),98.9748195551065,98.98180306954,98.9894017609484
+Northern Mariana Islands,MNP,Current health expenditure (% of GDP),,,
+Northern Mariana Islands,MNP,GDP per capita (constant 2015 US$),16365.016735394987,19461.86111297444,
+Northern Mariana Islands,MNP,"Life expectancy at birth, total (years)",78.16,78.531,78.808
+Northern Mariana Islands,MNP,"Mortality rate, infant (per 1,000 live births)",,,
+Northern Mariana Islands,MNP,People using at least basic sanitation services (% of population),99.4974327439361,99.7585788850266,99.7585788850266
+Norway,NOR,Current health expenditure (% of GDP),9.8142643,7.90873051,9.42925453
+Norway,NOR,GDP per capita (constant 2015 US$),81199.33914921395,83756.73838050607,83100.79446458716
+Norway,NOR,"Life expectancy at birth, total (years)",83.16341463414635,82.50975609756098,83.01219512195124
+Norway,NOR,"Mortality rate, infant (per 1,000 live births)",1.9,2.0,2.0
+Norway,NOR,People using at least basic sanitation services (% of population),98.0500277378087,98.0490073611327,98.0480105181421
+Oman,OMN,Current health expenditure (% of GDP),4.34468651,3.06614041,3.49047446
+Oman,OMN,GDP per capita (constant 2015 US$),18291.33879838881,18792.4460565306,17853.964489780064
+Oman,OMN,"Life expectancy at birth, total (years)",75.969,77.911,80.031
+Oman,OMN,"Mortality rate, infant (per 1,000 live births)",8.6,8.5,8.4
+Oman,OMN,People using at least basic sanitation services (% of population),99.3204402699812,99.3206203708609,99.3207794038753
+Pakistan,PAK,Current health expenditure (% of GDP),2.99015832,2.90354776,2.51988316
+Pakistan,PAK,GDP per capita (constant 2015 US$),1595.027921754216,1642.280669748258,1610.3312283753653
+Pakistan,PAK,"Life expectancy at birth, total (years)",65.773,67.417,67.649
+Pakistan,PAK,"Mortality rate, infant (per 1,000 live births)",53.0,51.3,49.7
+Pakistan,PAK,People using at least basic sanitation services (% of population),69.8533376726557,71.7686736729802,71.8243245387853
+Palau,PLW,Current health expenditure (% of GDP),14.55276012,14.87842083,10.85468197
+Palau,PLW,GDP per capita (constant 2015 US$),12932.085706023285,12889.621605828796,13070.794450215351
+Palau,PLW,"Life expectancy at birth, total (years)",68.563,68.922,69.269
+Palau,PLW,"Mortality rate, infant (per 1,000 live births)",19.6,19.4,19.0
+Palau,PLW,People using at least basic sanitation services (% of population),98.7826866864938,99.0185052265638,99.0217636084131
+Panama,PAN,Current health expenditure (% of GDP),9.13571072,9.04578876,8.33022976
+Panama,PAN,GDP per capita (constant 2015 US$),14552.934527176769,15956.067108787272,16877.15434256459
+Panama,PAN,"Life expectancy at birth, total (years)",77.004,79.324,79.594
+Panama,PAN,"Mortality rate, infant (per 1,000 live births)",12.0,11.9,11.9
+Panama,PAN,People using at least basic sanitation services (% of population),85.5096832210543,86.6851526856535,87.8666162534578
+Papua New Guinea,PNG,Current health expenditure (% of GDP),2.33994722,2.61463141,2.87081432
+Papua New Guinea,PNG,GDP per capita (constant 2015 US$),2378.389391466602,2467.240086289727,2515.285750965886
+Papua New Guinea,PNG,"Life expectancy at birth, total (years)",64.358,65.274,66.134
+Papua New Guinea,PNG,"Mortality rate, infant (per 1,000 live births)",34.1,33.1,32.2
+Papua New Guinea,PNG,People using at least basic sanitation services (% of population),22.5229636359759,22.8753163799614,23.2257913219562
+Paraguay,PRY,Current health expenditure (% of GDP),8.03277016,7.73537827,8.35731316
+Paraguay,PRY,GDP per capita (constant 2015 US$),6276.774842366298,6204.208115319106,6452.285668400343
+Paraguay,PRY,"Life expectancy at birth, total (years)",68.108,72.319,73.844
+Paraguay,PRY,"Mortality rate, infant (per 1,000 live births)",16.0,15.5,15.0
+Paraguay,PRY,People using at least basic sanitation services (% of population),93.3920477799252,94.2434679233291,95.2491802778514
+Peru,PER,Current health expenditure (% of GDP),6.67309427,6.0974617,5.63786411
+Peru,PER,GDP per capita (constant 2015 US$),6550.967475438716,6671.289020421373,6575.182955022283
+Peru,PER,"Life expectancy at birth, total (years)",71.596,76.834,77.74
+Peru,PER,"Mortality rate, infant (per 1,000 live births)",11.9,11.6,11.3
+Peru,PER,People using at least basic sanitation services (% of population),77.2143581209312,77.7372734420618,78.2571577701354
+Philippines,PHL,Current health expenditure (% of GDP),5.97500563,5.15588379,5.10122538
+Philippines,PHL,GDP per capita (constant 2015 US$),3350.975875877763,3577.70136573244,3744.6976380268593
+Philippines,PHL,"Life expectancy at birth, total (years)",66.675,69.472,69.833
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",22.6,22.4,22.0
+Philippines,PHL,People using at least basic sanitation services (% of population),83.6784077055498,84.8329995746262,85.991294396015
+Poland,POL,Current health expenditure (% of GDP),6.3654809,6.46619797,7.13848782
+Poland,POL,GDP per capita (constant 2015 US$),16368.6239689025,17303.644943229963,17410.383013706578
+Poland,POL,"Life expectancy at birth, total (years)",75.35121951219514,77.15609756097562,78.25853658536586
+Poland,POL,"Mortality rate, infant (per 1,000 live births)",3.7,3.7,3.7
+Poland,POL,People using at least basic sanitation services (% of population),98.9573598717452,98.9570843478037,98.9566925447355
+Portugal,PRT,Current health expenditure (% of GDP),11.22031498,10.5492239,10.02761173
+Portugal,PRT,GDP per capita (constant 2015 US$),20747.69907341633,22042.868028364705,22417.16340609061
+Portugal,PRT,"Life expectancy at birth, total (years)",81.3780487804878,81.6317073170732,82.32926829268294
+Portugal,PRT,"Mortality rate, infant (per 1,000 live births)",2.7,2.7,2.7
+Portugal,PRT,People using at least basic sanitation services (% of population),99.6623109186367,99.6612544387821,99.6602104639564
+Puerto Rico (US),PRI,Current health expenditure (% of GDP),,,
+Puerto Rico (US),PRI,GDP per capita (constant 2015 US$),28416.448937034576,29643.63962799941,30012.90551094631
+Puerto Rico (US),PRI,"Life expectancy at birth, total (years)",79.77,79.427,81.69
+Puerto Rico (US),PRI,"Mortality rate, infant (per 1,000 live births)",,,
+Puerto Rico (US),PRI,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Qatar,QAT,Current health expenditure (% of GDP),2.8927927,2.18613315,2.52358818
+Qatar,QAT,GDP per capita (constant 2015 US$),65488.511791112265,64315.62636436993,65111.03332148503
+Qatar,QAT,"Life expectancy at birth, total (years)",81.083,81.857,82.368
+Qatar,QAT,"Mortality rate, infant (per 1,000 live births)",5.1,5.0,4.9
+Qatar,QAT,People using at least basic sanitation services (% of population),99.9365453448301,99.936545083788,99.936545083788
+Romania,ROU,Current health expenditure (% of GDP),6.45246983,5.79823256,5.70901489
+Romania,ROU,GDP per capita (constant 2015 US$),11546.322499807226,12076.303381189637,12340.817050996884
+Romania,ROU,"Life expectancy at birth, total (years)",72.80975609756098,75.15365853658537,76.40487804878049
+Romania,ROU,"Mortality rate, infant (per 1,000 live births)",5.3,5.4,5.6
+Romania,ROU,People using at least basic sanitation services (% of population),88.6956428751098,89.6004899502368,90.505532492932
+Russian Federation,RUS,Current health expenditure (% of GDP),7.0299139,6.8788662,7.04438496
+Russian Federation,RUS,GDP per capita (constant 2015 US$),10231.318359375,10119.115234375,10560.4658203125
+Russian Federation,RUS,"Life expectancy at birth, total (years)",69.90024390243903,72.54560975609758,73.25463414634149
+Russian Federation,RUS,"Mortality rate, infant (per 1,000 live births)",4.4,4.3,4.2
+Russian Federation,RUS,People using at least basic sanitation services (% of population),90.3506542509722,90.9663797021895,91.5886930920727
+Rwanda,RWA,Current health expenditure (% of GDP),6.23147202,5.92842579,5.12708998
+Rwanda,RWA,GDP per capita (constant 2015 US$),871.0418353041873,935.8948325426396,993.9110046435244
+Rwanda,RWA,"Life expectancy at birth, total (years)",66.85,67.528,67.785
+Rwanda,RWA,"Mortality rate, infant (per 1,000 live births)",30.9,30.5,30.1
+Rwanda,RWA,People using at least basic sanitation services (% of population),77.3571126484404,78.8594683891809,80.3475631851087
+Samoa,WSM,Current health expenditure (% of GDP),7.19651461,6.93412352,6.78103304
+Samoa,WSM,GDP per capita (constant 2015 US$),4032.137310624102,4095.158755769777,4688.463053661133
+Samoa,WSM,"Life expectancy at birth, total (years)",71.096,71.55,71.698
+Samoa,WSM,"Mortality rate, infant (per 1,000 live births)",13.3,13.0,12.6
+Samoa,WSM,People using at least basic sanitation services (% of population),96.3448273060741,96.5989544610645,96.8487142072358
+San Marino,SMR,Current health expenditure (% of GDP),7.51272249,7.22336292,6.60829115
+San Marino,SMR,GDP per capita (constant 2015 US$),46834.11723638728,51277.32424685828,51323.77410029275
+San Marino,SMR,"Life expectancy at birth, total (years)",83.539,85.708,85.706
+San Marino,SMR,"Mortality rate, infant (per 1,000 live births)",1.4,1.3,1.3
+San Marino,SMR,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Sao Tome and Principe,STP,Current health expenditure (% of GDP),7.85889721,5.7744813,5.77292156
+Sao Tome and Principe,STP,GDP per capita (constant 2015 US$),1428.2867609797488,1403.233567046782,1380.6016941625685
+Sao Tome and Principe,STP,"Life expectancy at birth, total (years)",68.026,69.237,69.718
+Sao Tome and Principe,STP,"Mortality rate, infant (per 1,000 live births)",10.3,9.9,9.5
+Sao Tome and Principe,STP,People using at least basic sanitation services (% of population),48.4573502739393,48.5350542796998,48.6086612768342
+Saudi Arabia,SAU,Current health expenditure (% of GDP),5.93033648,5.31400585,5.68722248
+Saudi Arabia,SAU,GDP per capita (constant 2015 US$),24922.671694894445,26706.91792606596,25634.82375478405
+Saudi Arabia,SAU,"Life expectancy at birth, total (years)",77.089,77.31,78.732
+Saudi Arabia,SAU,"Mortality rate, infant (per 1,000 live births)",5.2,5.0,4.8
+Saudi Arabia,SAU,People using at least basic sanitation services (% of population),97.5922328659359,97.5973210358859,97.6024090977173
+Senegal,SEN,Current health expenditure (% of GDP),4.44256258,4.0444808,4.32314825
+Senegal,SEN,GDP per capita (constant 2015 US$),1414.5395109349877,1433.1991875228784,1458.9664233274968
+Senegal,SEN,"Life expectancy at birth, total (years)",66.868,67.788,68.683
+Senegal,SEN,"Mortality rate, infant (per 1,000 live births)",32.5,31.2,30.0
+Senegal,SEN,People using at least basic sanitation services (% of population),59.3441523766207,60.407587055533,61.4661335345473
+Serbia,SRB,Current health expenditure (% of GDP),9.23441029,8.58397198,8.03133774
+Serbia,SRB,GDP per capita (constant 2015 US$),7465.676010771475,7862.953873648459,8208.478689150696
+Serbia,SRB,"Life expectancy at birth, total (years)",72.78048780487805,75.23658536585367,76.14146341463415
+Serbia,SRB,"Mortality rate, infant (per 1,000 live births)",4.6,4.6,4.5
+Serbia,SRB,People using at least basic sanitation services (% of population),97.9231088276216,97.9283883905418,97.9347704722446
+Seychelles,SYC,Current health expenditure (% of GDP),5.2088151,4.39909697,4.48238087
+Seychelles,SYC,GDP per capita (constant 2015 US$),17005.04220636792,15471.210957541763,16286.855786767292
+Seychelles,SYC,"Life expectancy at birth, total (years)",73.39756097560975,74.50975609756098,75.41951219512197
+Seychelles,SYC,"Mortality rate, infant (per 1,000 live births)",13.5,13.4,13.1
+Seychelles,SYC,People using at least basic sanitation services (% of population),98.8985665517452,99.7,99.7
+Sierra Leone,SLE,Current health expenditure (% of GDP),5.07244635,4.80377436,4.71883011
+Sierra Leone,SLE,GDP per capita (constant 2015 US$),1045.766161575796,1077.088845385072,1113.868375006968
+Sierra Leone,SLE,"Life expectancy at birth, total (years)",60.26,61.275,61.786
+Sierra Leone,SLE,"Mortality rate, infant (per 1,000 live births)",59.9,58.1,56.3
+Sierra Leone,SLE,People using at least basic sanitation services (% of population),21.9564987659226,22.9191878036943,23.9048711595784
+Singapore,SGP,Current health expenditure (% of GDP),5.14599705,4.33121586,4.49163246
+Singapore,SGP,GDP per capita (constant 2015 US$),67846.8565377728,68271.08975253018,65976.70680369032
+Singapore,SGP,"Life expectancy at birth, total (years)",83.09268292682928,82.89512195121952,83.09756097560977
+Singapore,SGP,"Mortality rate, infant (per 1,000 live births)",2.0,2.0,2.1
+Singapore,SGP,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+Sint Maarten (Dutch part),SXM,Current health expenditure (% of GDP),,,
+Sint Maarten (Dutch part),SXM,GDP per capita (constant 2015 US$),29834.635006838253,33523.604204273695,34300.96304143483
+Sint Maarten (Dutch part),SXM,"Life expectancy at birth, total (years)",74.505,76.18,76.371
+Sint Maarten (Dutch part),SXM,"Mortality rate, infant (per 1,000 live births)",,,
+Sint Maarten (Dutch part),SXM,People using at least basic sanitation services (% of population),,,
+Slovak Republic,SVK,Current health expenditure (% of GDP),7.62857914,7.70245218,7.35262203
+Slovak Republic,SVK,GDP per capita (constant 2015 US$),18808.454049659547,18964.82984006236,19383.373200940143
+Slovak Republic,SVK,"Life expectancy at birth, total (years)",74.61463414634147,76.96585365853659,78.11951219512196
+Slovak Republic,SVK,"Mortality rate, infant (per 1,000 live births)",5.0,5.1,5.2
+Slovak Republic,SVK,People using at least basic sanitation services (% of population),97.5341310938748,97.5363631509113,97.5393256080188
+Slovenia,SVN,Current health expenditure (% of GDP),9.52724361,9.62683296,9.30008888
+Slovenia,SVN,GDP per capita (constant 2015 US$),24665.44104640256,25275.71596775705,25773.90158350689
+Slovenia,SVN,"Life expectancy at birth, total (years)",80.67560975609756,81.28292682926829,81.92926829268292
+Slovenia,SVN,"Mortality rate, infant (per 1,000 live births)",1.9,1.9,1.9
+Slovenia,SVN,People using at least basic sanitation services (% of population),98.3111577508786,98.3111577508786,98.3111577508786
+Solomon Islands,SLB,Current health expenditure (% of GDP),4.94795895,4.82418394,5.36366177
+Solomon Islands,SLB,GDP per capita (constant 2015 US$),1880.551982718301,1788.6172792205748,1795.8879869714162
+Solomon Islands,SLB,"Life expectancy at birth, total (years)",68.89,70.409,70.528
+Solomon Islands,SLB,"Mortality rate, infant (per 1,000 live births)",17.8,17.4,16.9
+Solomon Islands,SLB,People using at least basic sanitation services (% of population),33.9057348441726,34.1549727598984,34.4025678319385
+"Somalia, Fed. Rep.",SOM,Current health expenditure (% of GDP),2.73509169,2.8469162,3.74413586
+"Somalia, Fed. Rep.",SOM,GDP per capita (constant 2015 US$),461.6278307260207,460.0462266852384,464.7210695256096
+"Somalia, Fed. Rep.",SOM,"Life expectancy at birth, total (years)",55.703,53.931,58.816
+"Somalia, Fed. Rep.",SOM,"Mortality rate, infant (per 1,000 live births)",70.9,89.2,67.3
+"Somalia, Fed. Rep.",SOM,People using at least basic sanitation services (% of population),41.3196817201459,42.3649691614571,43.4108945004739
+South Africa,ZAF,Current health expenditure (% of GDP),8.6645031,8.74512291,8.90966797
+South Africa,ZAF,GDP per capita (constant 2015 US$),5750.909374795845,5786.865053447359,5756.550494531214
+South Africa,ZAF,"Life expectancy at birth, total (years)",62.01,65.454,66.139
+South Africa,ZAF,"Mortality rate, infant (per 1,000 live births)",24.3,24.3,24.3
+South Africa,ZAF,People using at least basic sanitation services (% of population),75.5483071505453,76.169562634684,76.7816295496925
+South Sudan,SSD,Current health expenditure (% of GDP),6.30117083,6.57254314,11.61002254
+South Sudan,SSD,GDP per capita (constant 2015 US$),,,
+South Sudan,SSD,"Life expectancy at birth, total (years)",57.047,57.203,57.617
+South Sudan,SSD,"Mortality rate, infant (per 1,000 live births)",71.9,71.9,71.9
+South Sudan,SSD,People using at least basic sanitation services (% of population),13.6458281034803,14.2167630894524,14.3201319980044
+Spain,ESP,Current health expenditure (% of GDP),10.34419918,9.6799593,9.2206583
+Spain,ESP,GDP per capita (constant 2015 US$),26705.362913895937,28203.10934194735,28558.63198175008
+Spain,ESP,"Life expectancy at birth, total (years)",83.1780487804878,83.13414634146342,83.93414634146342
+Spain,ESP,"Mortality rate, infant (per 1,000 live births)",2.6,2.6,2.6
+Spain,ESP,People using at least basic sanitation services (% of population),99.9188670826466,99.9186101900368,99.9183686152338
+Sri Lanka,LKA,Current health expenditure (% of GDP),5.19427729,3.98300457,3.68313766
+Sri Lanka,LKA,GDP per capita (constant 2015 US$),4357.97224978578,4033.1456030674426,3977.135649950852
+Sri Lanka,LKA,"Life expectancy at birth, total (years)",76.278,77.3,77.483
+Sri Lanka,LKA,"Mortality rate, infant (per 1,000 live births)",5.8,5.5,5.3
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),94.2083491070029,94.9480533011818,95.3491933910345
+St. Kitts and Nevis,KNA,Current health expenditure (% of GDP),6.16912127,5.52634287,5.73595428
+St. Kitts and Nevis,KNA,GDP per capita (constant 2015 US$),19031.821191060284,21050.758653728983,21664.03339847006
+St. Kitts and Nevis,KNA,"Life expectancy at birth, total (years)",69.271,70.313,72.145
+St. Kitts and Nevis,KNA,"Mortality rate, infant (per 1,000 live births)",15.2,14.8,14.4
+St. Kitts and Nevis,KNA,People using at least basic sanitation services (% of population),,,
+St. Lucia,LCA,Current health expenditure (% of GDP),6.26193285,4.74750614,4.7298274
+St. Lucia,LCA,GDP per capita (constant 2015 US$),9447.300592446389,11258.611079056443,11665.68260478176
+St. Lucia,LCA,"Life expectancy at birth, total (years)",69.119,72.67,72.697
+St. Lucia,LCA,"Mortality rate, infant (per 1,000 live births)",16.3,16.2,16.0
+St. Lucia,LCA,People using at least basic sanitation services (% of population),83.3633139252982,83.3579905079804,
+St. Martin (French part),MAF,Current health expenditure (% of GDP),,,
+St. Martin (French part),MAF,GDP per capita (constant 2015 US$),,,
+St. Martin (French part),MAF,"Life expectancy at birth, total (years)",80.206,80.236,80.224
+St. Martin (French part),MAF,"Mortality rate, infant (per 1,000 live births)",,,
+St. Martin (French part),MAF,People using at least basic sanitation services (% of population),100.0,100.0,100.0
+St. Vincent and the Grenadines,VCT,Current health expenditure (% of GDP),5.26607132,4.6054697,4.43696308
+St. Vincent and the Grenadines,VCT,GDP per capita (constant 2015 US$),8211.335880129422,8532.738134133895,9051.352080110068
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, total (years)",69.132,71.191,71.23
+St. Vincent and the Grenadines,VCT,"Mortality rate, infant (per 1,000 live births)",11.7,11.1,10.7
+St. Vincent and the Grenadines,VCT,People using at least basic sanitation services (% of population),,,
+Sudan,SDN,Current health expenditure (% of GDP),2.9669323,3.79416442,2.85165739
+Sudan,SDN,GDP per capita (constant 2015 US$),1009.54888916016,973.225280761719,677.723205566406
+Sudan,SDN,"Life expectancy at birth, total (years)",64.46,65.695,66.331
+Sudan,SDN,"Mortality rate, infant (per 1,000 live births)",41.0,39.8,44.0
+Sudan,SDN,People using at least basic sanitation services (% of population),56.9352476681987,59.8058415120202,62.7305457858252
+Suriname,SUR,Current health expenditure (% of GDP),5.01704168,5.93297768,5.40666008
+Suriname,SUR,GDP per capita (constant 2015 US$),6973.899418681152,7081.333573257831,7186.473081441445
+Suriname,SUR,"Life expectancy at birth, total (years)",68.943,73.254,73.631
+Suriname,SUR,"Mortality rate, infant (per 1,000 live births)",16.2,15.6,15.2
+Suriname,SUR,People using at least basic sanitation services (% of population),89.9622405684379,89.9723387364091,89.9842718946213
+Sweden,SWE,Current health expenditure (% of GDP),11.23013592,10.85505676,11.152915
+Sweden,SWE,GDP per capita (constant 2015 US$),53997.133706879926,54304.18775010333,53937.79671224295
+Sweden,SWE,"Life expectancy at birth, total (years)",83.05609756097562,83.05853658536587,83.30975609756099
+Sweden,SWE,"Mortality rate, infant (per 1,000 live births)",2.1,2.0,2.0
+Sweden,SWE,People using at least basic sanitation services (% of population),98.7911500544417,98.767447686991,98.7436812461122
+Switzerland,CHE,Current health expenditure (% of GDP),11.95855618,11.59911823,11.69096088
+Switzerland,CHE,GDP per capita (constant 2015 US$),90924.9256769825,93360.44011246398,92947.94244415684
+Switzerland,CHE,"Life expectancy at birth, total (years)",83.75121951219514,83.60487804878049,84.15609756097562
+Switzerland,CHE,"Mortality rate, infant (per 1,000 live births)",3.5,3.5,3.4
+Switzerland,CHE,People using at least basic sanitation services (% of population),99.8998704339259,99.8998753786739,99.8998744202541
+Syrian Arab Republic,SYR,Current health expenditure (% of GDP),3.50403309,3.3840971,2.70998812
+Syrian Arab Republic,SYR,GDP per capita (constant 2015 US$),746.0774587683892,716.9438439338559,
+Syrian Arab Republic,SYR,"Life expectancy at birth, total (years)",72.418,72.79,72.12
+Syrian Arab Republic,SYR,"Mortality rate, infant (per 1,000 live births)",19.3,19.1,18.6
+Syrian Arab Republic,SYR,People using at least basic sanitation services (% of population),94.6418305675614,94.980328483975,95.3158526472943
+Tajikistan,TJK,Current health expenditure (% of GDP),8.37504482,7.62917423,7.43789911
+Tajikistan,TJK,GDP per capita (constant 2015 US$),1254.0699959230624,1325.7554529084937,1407.107543622102
+Tajikistan,TJK,"Life expectancy at birth, total (years)",69.594,71.562,71.79
+Tajikistan,TJK,"Mortality rate, infant (per 1,000 live births)",24.7,24.4,24.0
+Tajikistan,TJK,People using at least basic sanitation services (% of population),95.98782600032,95.9951184722517,95.9857039731115
+Tanzania,TZA,Current health expenditure (% of GDP),3.46963334,3.13497496,3.05201221
+Tanzania,TZA,GDP per capita (constant 2015 US$),1054.31726074219,1070.58532714844,1092.86413574219
+Tanzania,TZA,"Life expectancy at birth, total (years)",66.131,66.879,66.995
+Tanzania,TZA,"Mortality rate, infant (per 1,000 live births)",32.1,30.9,29.7
+Tanzania,TZA,People using at least basic sanitation services (% of population),32.6535108479798,34.1608687863697,35.6824982712263
+Thailand,THA,Current health expenditure (% of GDP),5.15399981,5.35471153,4.53787661
+Thailand,THA,GDP per capita (constant 2015 US$),6119.1101852609945,6279.822504159734,6423.991011641494
+Thailand,THA,"Life expectancy at birth, total (years)",77.606,75.291,76.412
+Thailand,THA,"Mortality rate, infant (per 1,000 live births)",8.4,8.2,7.9
+Thailand,THA,People using at least basic sanitation services (% of population),98.3663780543942,98.7010762721829,99.0385374392322
+Timor-Leste,TLS,Current health expenditure (% of GDP),4.9192977,7.46371841,9.59779453
+Timor-Leste,TLS,GDP per capita (constant 2015 US$),2015.8203924619704,1579.710846808578,1279.2112241611007
+Timor-Leste,TLS,"Life expectancy at birth, total (years)",66.199,67.368,67.689
+Timor-Leste,TLS,"Mortality rate, infant (per 1,000 live births)",37.7,36.7,35.7
+Timor-Leste,TLS,People using at least basic sanitation services (% of population),65.5812259785817,68.0360936203576,70.4877207394957
+Togo,TGO,Current health expenditure (% of GDP),5.6165967,6.24094057,6.10829544
+Togo,TGO,GDP per capita (constant 2015 US$),928.3010876928972,970.5359758229826,1011.2308927823004
+Togo,TGO,"Life expectancy at birth, total (years)",61.337,62.292,62.74
+Togo,TGO,"Mortality rate, infant (per 1,000 live births)",38.0,37.0,35.9
+Togo,TGO,People using at least basic sanitation services (% of population),23.7836212231427,24.8925910881783,25.0297462105085
+Tonga,TON,Current health expenditure (% of GDP),7.06254101,7.95276737,7.36037779
+Tonga,TON,GDP per capita (constant 2015 US$),4612.900869132981,4533.968098201242,4680.300106643572
+Tonga,TON,"Life expectancy at birth, total (years)",72.13,72.635,72.895
+Tonga,TON,"Mortality rate, infant (per 1,000 live births)",8.5,8.2,8.0
+Tonga,TON,People using at least basic sanitation services (% of population),93.6491554246251,93.7917923415777,93.9318098810781
+Trinidad and Tobago,TTO,Current health expenditure (% of GDP),7.20521307,6.64416027,7.52568626
+Trinidad and Tobago,TTO,GDP per capita (constant 2015 US$),15558.094053682897,15712.230497272045,15922.766834978773
+Trinidad and Tobago,TTO,"Life expectancy at birth, total (years)",71.111,73.331,73.49
+Trinidad and Tobago,TTO,"Mortality rate, infant (per 1,000 live births)",18.4,18.0,17.5
+Trinidad and Tobago,TTO,People using at least basic sanitation services (% of population),94.2194207686008,94.204562265161,94.1907029265778
+Tunisia,TUN,Current health expenditure (% of GDP),7.34183979,7.51270723,7.98537874
+Tunisia,TUN,GDP per capita (constant 2015 US$),3902.5332299019938,3986.545583256664,3967.3338763453353
+Tunisia,TUN,"Life expectancy at birth, total (years)",72.893,76.05,76.508
+Tunisia,TUN,"Mortality rate, infant (per 1,000 live births)",12.5,11.5,10.5
+Tunisia,TUN,People using at least basic sanitation services (% of population),96.2856817943005,97.1606271679566,97.9849156132874
+Turkiye,TUR,Current health expenditure (% of GDP),4.56065559,3.70338893,4.27524424
+Turkiye,TUR,GDP per capita (constant 2015 US$),13670.938029516012,14273.574765487305,14932.885136312188
+Turkiye,TUR,"Life expectancy at birth, total (years)",75.722,77.591,77.156
+Turkiye,TUR,"Mortality rate, infant (per 1,000 live births)",8.8,8.5,9.8
+Turkiye,TUR,People using at least basic sanitation services (% of population),99.2429248259355,99.2548217497769,99.2664132586442
+Turkmenistan,TKM,Current health expenditure (% of GDP),5.49196625,5.37103748,5.49789095
+Turkmenistan,TKM,GDP per capita (constant 2015 US$),7244.613858803409,7549.253019303561,7879.965597897158
+Turkmenistan,TKM,"Life expectancy at birth, total (years)",69.353,69.913,70.073
+Turkmenistan,TKM,"Mortality rate, infant (per 1,000 live births)",32.7,32.0,31.3
+Turkmenistan,TKM,People using at least basic sanitation services (% of population),99.7409287319658,99.7391494278379,99.7373196526799
+Turks and Caicos Islands,TCA,Current health expenditure (% of GDP),,,
+Turks and Caicos Islands,TCA,GDP per capita (constant 2015 US$),42907.74924659116,48307.307924549896,54523.03309271511
+Turks and Caicos Islands,TCA,"Life expectancy at birth, total (years)",77.234,77.918,78.008
+Turks and Caicos Islands,TCA,"Mortality rate, infant (per 1,000 live births)",3.3,3.2,3.1
+Turks and Caicos Islands,TCA,People using at least basic sanitation services (% of population),93.1426950995276,93.1462139429881,93.1495232967179
+Tuvalu,TUV,Current health expenditure (% of GDP),18.57411194,21.28792,27.08968544
+Tuvalu,TUV,GDP per capita (constant 2015 US$),4351.240688963137,3953.667953499584,4165.769387056404
+Tuvalu,TUV,"Life expectancy at birth, total (years)",65.824,66.852,67.105
+Tuvalu,TUV,"Mortality rate, infant (per 1,000 live births)",18.2,17.6,17.0
+Tuvalu,TUV,People using at least basic sanitation services (% of population),88.424780639943,88.8444072299231,89.2608901052421
+Uganda,UGA,Current health expenditure (% of GDP),5.47374916,4.45071125,4.23600149
+Uganda,UGA,GDP per capita (constant 2015 US$),919.401675217265,933.0940563704228,955.7457972754618
+Uganda,UGA,"Life expectancy at birth, total (years)",66.45,67.675,68.252
+Uganda,UGA,"Mortality rate, infant (per 1,000 live births)",36.4,36.5,36.2
+Uganda,UGA,People using at least basic sanitation services (% of population),22.789614286416,23.1603896161507,23.5293222340079
+Ukraine,UKR,Current health expenditure (% of GDP),8.2027483,,
+Ukraine,UKR,GDP per capita (constant 2015 US$),2426.6123046875,1874.66296386719,2164.26123046875
+Ukraine,UKR,"Life expectancy at birth, total (years)",71.631,72.658,73.422
+Ukraine,UKR,"Mortality rate, infant (per 1,000 live births)",8.0,8.0,7.8
+Ukraine,UKR,People using at least basic sanitation services (% of population),97.4790947349818,97.5620782552435,97.6443648371652
+United Arab Emirates,ARE,Current health expenditure (% of GDP),5.30494308,4.56536388,4.97095108
+United Arab Emirates,ARE,GDP per capita (constant 2015 US$),40935.89154820839,41828.56869235462,41926.57734984073
+United Arab Emirates,ARE,"Life expectancy at birth, total (years)",79.083,80.487,82.909
+United Arab Emirates,ARE,"Mortality rate, infant (per 1,000 live births)",4.4,4.2,4.0
+United Arab Emirates,ARE,People using at least basic sanitation services (% of population),99.0936250142386,99.0913042673601,99.0890518596042
+United Kingdom,GBR,Current health expenditure (% of GDP),12.08347321,11.09679794,10.99128914
+United Kingdom,GBR,GDP per capita (constant 2015 US$),46491.50688366847,48410.095170282,47911.15401348323
+United Kingdom,GBR,"Life expectancy at birth, total (years)",80.64731707317074,81.01121951219511,81.2380975609756
+United Kingdom,GBR,"Mortality rate, infant (per 1,000 live births)",3.9,4.0,4.1
+United Kingdom,GBR,People using at least basic sanitation services (% of population),99.105873619579,99.1047944059839,99.1037240160958
+United States,USA,Current health expenditure (% of GDP),17.35207748,16.52875137,16.69414902
+United States,USA,GDP per capita (constant 2015 US$),63096.78561497462,64322.23328191388,65667.28158046801
+United States,USA,"Life expectancy at birth, total (years)",76.32926829268293,77.43414634146343,78.38536585365854
+United States,USA,"Mortality rate, infant (per 1,000 live births)",5.5,5.5,5.5
+United States,USA,People using at least basic sanitation services (% of population),99.6486733885848,99.6316127279868,99.6151178147694
+Uruguay,URY,Current health expenditure (% of GDP),8.91955471,8.89015961,9.01887608
+Uruguay,URY,GDP per capita (constant 2015 US$),17416.005230846862,18249.291216882808,18403.675312515672
+Uruguay,URY,"Life expectancy at birth, total (years)",75.434,76.468,78.138
+Uruguay,URY,"Mortality rate, infant (per 1,000 live births)",6.1,6.1,6.1
+Uruguay,URY,People using at least basic sanitation services (% of population),98.3535399904896,98.6365121038307,98.8933870836172
+Uzbekistan,UZB,Current health expenditure (% of GDP),6.92742586,6.61703825,6.74312878
+Uzbekistan,UZB,GDP per capita (constant 2015 US$),3951.9965732735936,4109.084210316551,4281.205421212247
+Uzbekistan,UZB,"Life expectancy at birth, total (years)",71.681,72.147,72.388
+Uzbekistan,UZB,"Mortality rate, infant (per 1,000 live births)",13.9,13.5,13.1
+Uzbekistan,UZB,People using at least basic sanitation services (% of population),96.1847033375418,96.30669347504,96.4278294703949
+Vanuatu,VUT,Current health expenditure (% of GDP),4.58828115,4.05895281,4.1186676
+Vanuatu,VUT,GDP per capita (constant 2015 US$),2979.390628389667,3073.860626581128,3178.3031116211982
+Vanuatu,VUT,"Life expectancy at birth, total (years)",69.952,71.302,71.477
+Vanuatu,VUT,"Mortality rate, infant (per 1,000 live births)",15.1,14.9,14.7
+Vanuatu,VUT,People using at least basic sanitation services (% of population),48.9569658031251,48.5782563163716,48.197355856503
+"Venezuela, RB",VEN,Current health expenditure (% of GDP),4.1022191,4.55045986,3.77611423
+"Venezuela, RB",VEN,GDP per capita (constant 2015 US$),1272.9439751652712,1376.9380122712505,1427.8865594380543
+"Venezuela, RB",VEN,"Life expectancy at birth, total (years)",71.536,72.566,72.514
+"Venezuela, RB",VEN,"Mortality rate, infant (per 1,000 live births)",21.2,21.2,21.2
+"Venezuela, RB",VEN,People using at least basic sanitation services (% of population),97.0023571451138,98.3955859787771,98.3955859787771
+Viet Nam,VNM,Current health expenditure (% of GDP),4.53792429,4.53809595,4.56109476
+Viet Nam,VNM,GDP per capita (constant 2015 US$),3358.217347647143,3617.663112804366,3772.360291161032
+Viet Nam,VNM,"Life expectancy at birth, total (years)",74.145,74.502,74.588
+Viet Nam,VNM,"Mortality rate, infant (per 1,000 live births)",13.3,12.9,12.4
+Viet Nam,VNM,People using at least basic sanitation services (% of population),90.4559668368841,92.3237168322338,94.0898634431677
+Virgin Islands (U.S.),VIR,Current health expenditure (% of GDP),,,
+Virgin Islands (U.S.),VIR,GDP per capita (constant 2015 US$),37313.04849315309,36983.43106027204,
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, total (years)",80.06829268292682,80.31951219512196,80.51951219512196
+Virgin Islands (U.S.),VIR,"Mortality rate, infant (per 1,000 live births)",,,
+Virgin Islands (U.S.),VIR,People using at least basic sanitation services (% of population),99.2489130778912,99.2588820364163,99.2588820364163
+West Bank and Gaza,PSE,Current health expenditure (% of GDP),10.4347353,9.70613861,10.73343945
+West Bank and Gaza,PSE,GDP per capita (constant 2015 US$),3051.486070079949,3099.9609010367967,2997.2269407784893
+West Bank and Gaza,PSE,"Life expectancy at birth, total (years)",73.89,76.662,65.17
+West Bank and Gaza,PSE,"Mortality rate, infant (per 1,000 live births)",12.8,12.3,16.8
+West Bank and Gaza,PSE,People using at least basic sanitation services (% of population),99.0621470403227,99.3771389277401,99.3925426491979
+"Yemen, Rep.",YEM,Current health expenditure (% of GDP),9.44125366,8.81763458,9.69559193
+"Yemen, Rep.",YEM,GDP per capita (constant 2015 US$),,,
+"Yemen, Rep.",YEM,"Life expectancy at birth, total (years)",66.019,67.952,69.295
+"Yemen, Rep.",YEM,"Mortality rate, infant (per 1,000 live births)",36.9,36.0,34.9
+"Yemen, Rep.",YEM,People using at least basic sanitation services (% of population),60.6660832932611,61.480658139543,62.2859746985692
+Zambia,ZMB,Current health expenditure (% of GDP),6.63951397,5.21042967,5.97841072
+Zambia,ZMB,GDP per capita (constant 2015 US$),1269.1082180889516,1298.8480495593024,1330.8599821675073
+Zambia,ZMB,"Life expectancy at birth, total (years)",62.363,65.279,66.349
+Zambia,ZMB,"Mortality rate, infant (per 1,000 live births)",35.6,35.4,35.0
+Zambia,ZMB,People using at least basic sanitation services (% of population),35.2442051458646,35.9950584575439,36.7391328457853
+Zimbabwe,ZWE,Current health expenditure (% of GDP),2.67111874,3.39519501,2.92601609
+Zimbabwe,ZWE,GDP per capita (constant 2015 US$),1312.2000135880671,1369.1976149557086,1418.4718462879948
+Zimbabwe,ZWE,"Life expectancy at birth, total (years)",60.135,62.36,62.775
+Zimbabwe,ZWE,"Mortality rate, infant (per 1,000 live births)",59.8,61.6,62.2
+Zimbabwe,ZWE,People using at least basic sanitation services (% of population),34.6099501611517,34.6178594063559,34.6283464803415
